@@ -1,5 +1,6 @@
 
-![DALL·E 2023-11-20 23 18 53 - An open-source software development guidebook designed for new developers, with a modern, sleek cover featuring coding and technology symbols like bra](https://github.com/riccardogenova-bitrocket-studio/docs/assets/17598688/018d4ed4-a45b-41ee-be94-8daf786aaccf)
+
+  ![DALL·E 2023-11-20 23 27 33 - An open-source software development guidebook aimed at new developers, featuring a modern, sleek cover adorned with coding and technology symbols like](https://github.com/riccardogenova-bitrocket-studio/docs/assets/17598688/b70392af-8ef7-4ffe-a26a-78d0828d966c)
 
 # Guida per nuovi sviluppatori
 
