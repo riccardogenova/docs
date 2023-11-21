@@ -37,6 +37,7 @@
 # Performance e Ottimizzazione
 - **Scalabilità**: Capacità di un sistema di gestire un crescente numero di richieste.
 - **Ottimizzazione**: Migliorare l'efficienza del codice o delle risorse del sistema.
+- **Problem Solving**: Capacità di risoluzione problemi in modo efficace ed efficiente.
 
 # Cloud Computing
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
