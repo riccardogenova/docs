@@ -7,6 +7,7 @@
 - **Functional Programming**: Paradigma di programmazione dove il calcolo è trattato come la valutazione di funzioni matematiche.
 - **<span id="commento">Commento</span>**: lasciare nel codice note personali, spiegazione sintetica ma esplicativo di qualche passaggio meno chiaro a colpo d'occhio. [Vedi `Documentazione`](#documentazione)
 - **<span id="documentazione">Documentazione</span>**: testo lasciato da noi per codice di un team, o dalla casa di rilascio di un programma/ una libreria, per spiegare nel dettaglio come meglio adoperare funzioni, classi, metodi o moduli del programma/della libreria. AKA salvavita dei programmatori! [Vedi `Commento`](#commento)
+- **Shell**: aka `CLI`, `cmd` o anche `prompt dei commandi`. È la `Command Line Interface`, lo strumento più potente sotto le dita di un programmatore o di un comune smanettone. Permette di eseguire scripts o tool tramite un prompt testuale. Es.: `$ echo $PATH`
 
 # Sviluppo Web
 
