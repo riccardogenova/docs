@@ -39,6 +39,7 @@ Per mantenere la qualità e la coerenza dei contenuti, ti preghiamo di seguire q
 - **Best Practices**
   - Stile di codifica
   - Principi di progettazione software
+  - Commentare e documentare il codice
 - **Risorse di Apprendimento**
   - Libri, tutorial online, corsi
   - Comunità e forum per sviluppatori
