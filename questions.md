@@ -30,3 +30,6 @@
 
 10. **Cosa intendi per 'DevOps' e quale ruolo gioca nel ciclo di vita dello sviluppo software?**
     - Comprensione di DevOps nel contesto dello sviluppo software.
+
+11. **Cosa si intende per debugging?**
+    - Per debugging si intende il processo di risoluzione del problema che porta alla risoluzione di un bug.
