@@ -19,6 +19,7 @@
 
 # Controllo Versione
 - **Git**: Sistema di controllo versione per tracciare i cambiamenti nel codice sorgente.
+- **GitHub**: Un servizio di hosting per progetti software, implementazione dello strumento di Git.
 - **Repository**: Raccolta di codice sorgente, documentazione, file di configurazione, ecc.
 
 # Testing e Debugging
