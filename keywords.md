@@ -40,4 +40,4 @@
 
 # Cloud Computing
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
-- **Provider Cloud**: Servizi come AWS, Azure, Google Cloud che offrono risorse di computing su internet.
+- **Provider Cloud**:  I Cloud provider che padroneggiano la scena internazionale sono colossi industriali distribuiti capillarmente a livello globale
