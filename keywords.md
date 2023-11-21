@@ -34,6 +34,12 @@
 - **Crittografia**: Proteggere le informazioni attraverso la codifica.
 - **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 
+# Data science
+- **Machine learning**: apprendimento automatico dei dati
+- **Data mining**: estrazione di conoscenza dai dati
+- **Data visualization**: rappresentazione visiva dei dati
+
+
 # Performance e Ottimizzazione
 - **Scalabilità**: Capacità di un sistema di gestire un crescente numero di richieste.
 - **Ottimizzazione**: Migliorare l'efficienza del codice o delle risorse del sistema.
