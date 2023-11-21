@@ -38,6 +38,8 @@
 - **Scalabilità**: Capacità di un sistema di gestire un crescente numero di richieste.
 - **Ottimizzazione**: Migliorare l'efficienza del codice o delle risorse del sistema.
 
+- **Versatilità**: Il codice deve essere versatile e facile da modificare.
+
 # Cloud Computing
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
 - **Provider Cloud**: Servizi come AWS, Azure, Google Cloud che offrono risorse di computing su internet.
