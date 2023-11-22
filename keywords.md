@@ -34,6 +34,7 @@
 - **Debugging**: Processo di individuazione e risoluzione di errori o bug nel codice.
 
   **ambientarsi**:: Essere agili in tutti i linguaggi
+  **aiutare**: Essere disponibili quando un collega ha difficolta
 
 # Principi di Sviluppo
 
