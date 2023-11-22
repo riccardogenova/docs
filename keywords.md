@@ -27,6 +27,7 @@
 - **Debugging**: Processo di individuazione e risoluzione di errori o bug nel codice.
 
   **ambientarsi**:: Essere agili in tutti i linguaggi
+  **aiutare**: Essere disponibili quando un collega ha difficolta
 
 # Principi di Sviluppo
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
