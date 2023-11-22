@@ -41,3 +41,4 @@
 # Cloud Computing
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
 - **Provider Cloud**: Servizi come AWS, Azure, Google Cloud che offrono risorse di computing su internet.
+ - **La qualifica SecNumCloud**: il livello più alto di sicurezza informatica 
