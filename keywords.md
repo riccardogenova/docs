@@ -72,7 +72,11 @@
 
 # Problem-solving abilities
 
-- **Mathematis, Logic, Cultura generale** : Conoscenze base che possono essere utili nella risoluzione dei problemi
+- **Mathematis, Logic, Cultura generale** : Conoscenze base che possono essere utili nella risoluzione dei vari problemi
+
+# Terminal Commands:
+
+- **conoscenza comandi base da terminale**: conoscenze base
 
 # Hardware Virtualization
 
