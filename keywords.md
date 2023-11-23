@@ -47,6 +47,7 @@
 -**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
 - **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 - **Firewall**: Dispositivo di sicurezza che monitora e controlla il traffico di rete.
+- **Penetration Test**: Questa tipologia di analisi è concepita per la valutazione della sicurezza di una ‘applicazione web’ – software che si interfacciano con la rete – di conseguenza i test riguardano tutto il sistema informatico di una organizzazione.
 
 
 # Performance e Ottimizzazione
