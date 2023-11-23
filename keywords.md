@@ -20,6 +20,7 @@
 # Controllo Versione
 - **Git**: Sistema di controllo versione per tracciare i cambiamenti nel codice sorgente.
 - **Repository**: Raccolta di codice sorgente, documentazione, file di configurazione, ecc.
+- **Fork**: Copia di un repository che ci permette di sperimentare qualsiasi cambiamento vogliamo senza modificare il progetto principale.
 
 # Testing e Debugging
 - **Unit Testing**: Test di singole parti (unità) di codice.
