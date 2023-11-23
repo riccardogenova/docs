@@ -36,6 +36,7 @@
 # Principi di Sviluppo
 
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
+- **Waterfall**: La metodologia waterfall prevede una gestione sequenziale dei progetti, suddivisa in fasi distinte.
 - **DevOps**: Pratica che punta all'unificazione dello sviluppo software (Dev) e delle operazioni IT (Ops).
 
 # Sicurezza
