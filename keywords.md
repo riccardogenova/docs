@@ -14,7 +14,11 @@
 - **Back-End**: Parte dell'applicazione responsabile per la gestione dei dati, logica del server, e autenticazione.
 - **API (Application Programming Interface)**: Un insieme di regole che permettono alle applicazioni di comunicare tra loro.
 - **Framework e Librerie**: Strumenti come React, Angular, Vue (front-end) o Node.js, Django, Ruby on Rails (back-end) che facilitano lo sviluppo web.
+<<<<<<< HEAD
 - **Architettura di microservizi**: L'architettura di microservizi suddivide un'applicazione in una serie di servizi distribuibili in modo indipendente che comunicano tramite API.
+=======
+- **REST (Representational State Transfer)**: Architettura per la progettazione di servizi web basata sulla rappresentazione dei dati e sulle operazioni CRUD.
+>>>>>>> 76b04cc (docs(keywords): added REST keyword on 'sviluppo web' section)
 
 # Database
 
@@ -43,11 +47,16 @@
 - **Clean Code**: La scrittura di codice leggibile, manutenibile e comprensibile, seguendo principi come la chiarezza e la modularità.
 
 # Sicurezza
+<<<<<<< HEAD
 - **Crittografia**:  Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. 
 -**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
 - **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 - **Firewall**: Dispositivo di sicurezza che monitora e controlla il traffico di rete.
+=======
+>>>>>>> 76b04cc (docs(keywords): added REST keyword on 'sviluppo web' section)
 
+- **Crittografia**: Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. -**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
+- **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 
 # Performance e Ottimizzazione
 
