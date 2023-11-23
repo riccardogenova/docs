@@ -6,6 +6,7 @@
 - **Procedural Programming**: Un tipo di programmazione imperativa basata su procedure o funzioni.
 - **Functional Programming**: Paradigma di programmazione dove il calcolo è trattato come la valutazione di funzioni matematiche.
 - **TEST**: TEST.
+- **Debugging**: processo di problem solving che porta alla risoluzione di errori nel codice.
 
 # Sviluppo Web
 
