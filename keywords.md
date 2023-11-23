@@ -6,6 +6,7 @@
 - **Procedural Programming**: Un tipo di programmazione imperativa basata su procedure o funzioni.
 - **Functional Programming**: Paradigma di programmazione dove il calcolo è trattato come la valutazione di funzioni matematiche.
 - **TEST**: TEST.
+- **Ricorsione**: Tecnica di programmazione in cui una funzione si chiama se stessa per risolvere un problema più piccolo.
 
 # Sviluppo Web
 
@@ -27,7 +28,7 @@
 - **Git**: Sistema di controllo versione per tracciare i cambiamenti nel codice sorgente.
 - **Repository**: Raccolta di codice sorgente, documentazione, file di configurazione, ecc.
 - **Fork**: Copia di un repository che ci permette di sperimentare qualsiasi cambiamento vogliamo senza modificare il progetto principale.
-- **Pull Request**:  Una richiesta per integrare le modifiche apportate in un branch in un altro, spesso utilizzato in collaborazione con altri sviluppatori.
+- **Pull Request**: Una richiesta per integrare le modifiche apportate in un branch in un altro, spesso utilizzato in collaborazione con altri sviluppatori.
 
 # Testing e Debugging
 
@@ -43,11 +44,10 @@
 - **Clean Code**: La scrittura di codice leggibile, manutenibile e comprensibile, seguendo principi come la chiarezza e la modularità.
 
 # Sicurezza
-- **Crittografia**:  Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. 
--**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
+
+- **Crittografia**: Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. -**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
 - **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 - **Firewall**: Dispositivo di sicurezza che monitora e controlla il traffico di rete.
-
 
 # Performance e Ottimizzazione
 
