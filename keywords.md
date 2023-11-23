@@ -33,7 +33,7 @@
 # Sicurezza
 - **Crittografia**: Proteggere le informazioni attraverso la codifica.
 - **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
-
+-**Reliability**: Prevenzione da eventi che possono produrre danni di qualsiasi gravità al sistema.
 # Performance e Ottimizzazione
 - **Scalabilità**: Capacità di un sistema di gestire un crescente numero di richieste.
 - **Ottimizzazione**: Migliorare l'efficienza del codice o delle risorse del sistema.
@@ -41,3 +41,4 @@
 # Cloud Computing
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
 - **Provider Cloud**:  I Cloud provider che padroneggiano la scena internazionale sono colossi industriali distribuiti capillarmente a livello globale
+-** **
