@@ -36,8 +36,8 @@
 # Principi di Sviluppo
 
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
-- **Waterfall**: La metodologia waterfall prevede una gestione sequenziale dei progetti, suddivisa in fasi distinte.
 - **DevOps**: Pratica che punta all'unificazione dello sviluppo software (Dev) e delle operazioni IT (Ops).
+- **Waterfall**: La metodologia waterfall prevede una gestione sequenziale dei progetti, suddivisa in fasi distinte.
 
 # Sicurezza
 - **Crittografia**:  Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. 
