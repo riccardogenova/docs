@@ -67,3 +67,8 @@
 
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
 - **Provider Cloud**: Servizi come AWS, Azure, Google Cloud che offrono risorse di computing su internet.
+
+# Hardware Virtualization
+- **Full Virtualization**: tutto dall'Host viene "Virtualizzato", usualmente risultando in performance peggiori.
+- **Paravirtualization**: Host e Guest comunicano tra di loro attraverso APIs specifiche, risultando in performance migliori. L'host dovrà comunque offrire supporto kernel.
+- **OS Level Virtualization**: usato per esempio da docker, l'Host permette instanze multiple di virtualizzazione, chiamate "containers", che hanno accesso a determinati set di risorse sia per motivi di sicurezza, sia per motivi di perfomance. Questo comporta minor "overhead", ma sia Host che Guest devono girare sullo stesso OS.
