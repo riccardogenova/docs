@@ -38,6 +38,11 @@
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
 - **DevOps**: Pratica che punta all'unificazione dello sviluppo software (Dev) e delle operazioni IT (Ops).
 
+# Data science
+- **Machine learning**: apprendimento automatico dei dati
+- **Data mining**: estrazione di conoscenza dai dati
+- **Data visualization**: rappresentazione visiva dei dati
+
 # Sicurezza
 - **Crittografia**:  Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. 
 -**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
