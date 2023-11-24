@@ -33,7 +33,8 @@
 # Sicurezza
 - **Crittografia**: Proteggere le informazioni attraverso la codifica.
 - **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
--**Reliability**: Prevenzione da eventi che possono produrre danni di qualsiasi gravità al sistema.
+- **Reliability**: Prevenzione da eventi che possono produrre danni di qualsiasi gravità al sistema.
+- **Antivirus**: Un antivirus è un software finalizzato a prevenire, rilevare ed eventualmente rendere inoffensivi codici dannosi e malware per un computer come virus, adware, backdoor, BHO, dialer, fraudtool, hijacker, keylogger, LSP, rootkit, spyware, trojan, worm o ransomware.
 # Performance e Ottimizzazione
 - **Scalabilità**: Capacità di un sistema di gestire un crescente numero di richieste.
 - **Ottimizzazione**: Migliorare l'efficienza del codice o delle risorse del sistema.
@@ -41,4 +42,4 @@
 # Cloud Computing
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
 - **Provider Cloud**:  I Cloud provider che padroneggiano la scena internazionale sono colossi industriali distribuiti capillarmente a livello globale
--** **
+- **Bursting del cloud**: Una configurazione di cloud computing che consente a un cloud privato di accedere alle risorse del cloud pubblico "irrompendo" in un cloud pubblico quando la domanda di elaborazione aumenta.
