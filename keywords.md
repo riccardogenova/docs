@@ -43,7 +43,7 @@
 -**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
 - **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 - **Firewall**: Dispositivo hardware o software progettato per monitorare, filtrare e controllare il traffico di rete in base a regole di sicurezza predefinite.
-
+- **Vulnerabilità**:Una vulnerabilità è una debolezza in un sistema che può essere sfruttata da un attaccante per compromettere la sicurezza del sistema.
 # Performance e Ottimizzazione
 
 - **Scalabilità**: Capacità di un sistema di gestire un crescente numero di richieste.
