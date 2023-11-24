@@ -30,7 +30,6 @@
 # Principi di Sviluppo
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
 - **DevOps**: Pratica che punta all'unificazione dello sviluppo software (Dev) e delle operazioni IT (Ops).
-- **Attendibilità**: Coerenza o affidabilità di dati e giudizi di valutazione, in riferimento alla qualità degli strumenti, delle procedure e delle analisi impiegate per la raccolta e l’interpretazione dei dati della valutazione.
 
 # Sicurezza
 - **Crittografia**: Proteggere le informazioni attraverso la codifica.
@@ -45,5 +44,7 @@
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
 - **Provider Cloud**:  I Cloud provider che padroneggiano la scena internazionale sono colossi industriali distribuiti capillarmente a livello globale
 - **Bursting dei cloud**:Una configurazione di cloud computing che consente a un cloud privato di accedere alle risorse del cloud pubblico "irrompendo" in un cloud pubblico quando la domanda di elaborazione aumenta.
+- **Calcolo Serverless**: Un modello di cloud computing in cui il fornitore cloud gestisce l'infrastruttura, e gli utenti devono solo concentrarsi sulla scrittura del codice per le proprie applicazioni.
+- **Cloud Ibrido**: Una combinazione di servizi cloud pubblici e privati, che consente la condivisione di dati e applicazioni tra di essi.
 
 
