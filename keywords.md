@@ -6,6 +6,8 @@
 - **Procedural Programming**: Un tipo di programmazione imperativa basata su procedure o funzioni.
 - **Functional Programming**: Paradigma di programmazione dove il calcolo è trattato come la valutazione di funzioni matematiche.
 - **TEST**: TEST.
+- **<span id="commento">Commento</span>**: Lasciare nel codice una nota personale, una spiegazione sintetica ma esplicativa di qualche passaggio meno chiaro a colpo d'occhio. [Vedi `Documentazione`](#documentazione)
+- **<span id="documentazione">Documentazione</span>**: Testo lasciato da noi sviluppatori durante un progetto in team, o dalla casa di rilascio per un programma/ una libreria, per spiegare nel dettaglio come meglio adoperare **funzioni**, **classi**, **metodi** o **moduli** del programma/della libreria. A.K.A. salvavita dei programmatori! [Vedi `Commento`](#commento)
 
 # Sviluppo Web
 
@@ -39,10 +41,10 @@
 - **DevOps**: Pratica che punta all'unificazione dello sviluppo software (Dev) e delle operazioni IT (Ops).
 
 # Sicurezza
-- **Crittografia**:  Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. 
--**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
-- **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 
+- **Crittografia**: Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico.
+- **Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
+- **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 
 # Performance e Ottimizzazione
 
