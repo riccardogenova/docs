@@ -45,6 +45,9 @@
 - **Firewall**: Dispositivo hardware o software progettato per monitorare, filtrare e controllare il traffico di rete in base a regole di sicurezza predefinite.
 - **Vulnerabilità**:Una vulnerabilità è una debolezza in un sistema che può essere sfruttata da un attaccante per compromettere la sicurezza del sistema.
 - **Penetration Testing**: Il penetration testing, o test di penetrazione, è un approccio controllato per valutare la sicurezza di un sistema simulando un attacco da parte di un hacker.
+
+
+
 # Performance e Ottimizzazione
 
 - **Scalabilità**: Capacità di un sistema di gestire un crescente numero di richieste.
