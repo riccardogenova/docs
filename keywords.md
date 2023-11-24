@@ -6,6 +6,7 @@
 - **Procedural Programming**: Un tipo di programmazione imperativa basata su procedure o funzioni.
 - **Functional Programming**: Paradigma di programmazione dove il calcolo è trattato come la valutazione di funzioni matematiche.
 - **TEST**: TEST.
+- **Shell**: aka `CLI`, `cmd` o anche `prompt dei commandi`. È la `Command Line Interface`, lo strumento più potente sotto le dita di un programmatore o di un comune smanettone. Permette di eseguire scripts o tool tramite un prompt testuale. Es.: `$ echo $PATH`
 
 # Sviluppo Web
 
@@ -39,10 +40,9 @@
 - **DevOps**: Pratica che punta all'unificazione dello sviluppo software (Dev) e delle operazioni IT (Ops).
 
 # Sicurezza
-- **Crittografia**:  Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. 
--**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
-- **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 
+- **Crittografia**: Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. -**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
+- **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 
 # Performance e Ottimizzazione
 
