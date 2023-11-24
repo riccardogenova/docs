@@ -59,5 +59,7 @@
 - **Bursting dei cloud**:Una configurazione di cloud computing che consente a un cloud privato di accedere alle risorse del cloud pubblico "irrompendo" in un cloud pubblico quando la domanda di elaborazione aumenta.
 - **Calcolo Serverless**: Un modello di cloud computing in cui il fornitore cloud gestisce l'infrastruttura, e gli utenti devono solo concentrarsi sulla scrittura del codice per le proprie applicazioni.
 - **Cloud Ibrido**: Una combinazione di servizi cloud pubblici e privati, che consente la condivisione di dati e applicazioni tra di essi.
+ - **Cloud Privato**: Infrastruttura cloud e servizi utilizzati esclusivamente da un'organizzazione.
+  - **Cloud Pubblico**: Infrastruttura cloud e servizi resi disponibili al pubblico in generale da un fornitore di servizi. 
 
 
