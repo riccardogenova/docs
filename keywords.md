@@ -43,3 +43,5 @@
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
 - **Provider Cloud**:  I Cloud provider che padroneggiano la scena internazionale sono colossi industriali distribuiti capillarmente a livello globale
 - **Bursting dei cloud**:Una configurazione di cloud computing che consente a un cloud privato di accedere alle risorse del cloud pubblico "irrompendo" in un cloud pubblico quando la domanda di elaborazione aumenta.
+
+
