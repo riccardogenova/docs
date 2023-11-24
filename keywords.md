@@ -21,6 +21,7 @@
 - **Git**: Sistema di controllo versione per tracciare i cambiamenti nel codice sorgente.
 - **Repository**: Raccolta di codice sorgente, documentazione, file di configurazione, ecc.
 
+
 # Testing e Debugging
 - **Unit Testing**: Test di singole parti (unità) di codice.
 - **Integration Testing**: Test su come diverse parti del sistema lavorano insieme.
@@ -29,6 +30,7 @@
 # Principi di Sviluppo
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
 - **DevOps**: Pratica che punta all'unificazione dello sviluppo software (Dev) e delle operazioni IT (Ops).
+- **Attendibilità**: Coerenza o affidabilità di dati e giudizi di valutazione, in riferimento alla qualità degli strumenti, delle procedure e delle analisi impiegate per la raccolta e l’interpretazione dei dati della valutazione.
 
 # Sicurezza
 - **Crittografia**: Proteggere le informazioni attraverso la codifica.
