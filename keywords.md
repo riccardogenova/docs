@@ -39,10 +39,10 @@
 - **DevOps**: Pratica che punta all'unificazione dello sviluppo software (Dev) e delle operazioni IT (Ops).
 
 # Sicurezza
-- **Crittografia**:  Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. 
--**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
-- **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 
+- **Crittografia**: Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. -**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
+- **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
+- **SSH (Secure Shell)**: È un command-line tool, forse il metodo più noto di login remoto basato su architettura [Client-Server](#client-server) che permette la connessione ad un altro computer (server) dal proprio computer (client) tramite il commando da terminale [`$ ssh`](https://man.archlinux.org/man/ssh.1). ([see Shell])(#shell)
 
 # Performance e Ottimizzazione
 
