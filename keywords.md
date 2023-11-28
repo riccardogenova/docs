@@ -14,6 +14,7 @@
 - **Back-End**: Parte dell'applicazione responsabile per la gestione dei dati, logica del server, e autenticazione.
 - **API (Application Programming Interface)**: Un insieme di regole che permettono alle applicazioni di comunicare tra loro.
 - **Framework e Librerie**: Strumenti come React, Angular, Vue (front-end) o Node.js, Django, Ruby on Rails (back-end) che facilitano lo sviluppo web.
+- **PHP**: Tecnologia di back-end per lo sviluppo di server pages.
 
 # Database
 
