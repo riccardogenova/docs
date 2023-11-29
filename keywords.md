@@ -19,6 +19,7 @@
 - **Architettura di microservizi**: L'architettura di microservizi suddivide un'applicazione in una serie di servizi distribuibili in modo indipendente che comunicano tramite API.
 - **Deploy** :  Processo di distribuzione di un'applicazione o di un sistema software in un ambiente operativo o di produzione in modo che sia accessibile e utilizzabile dagli utenti finali.
 - **Responsive Design**: Progettazione di siti web che si adattano a diverse dimensioni di schermo e dispositivi.
+- **PHP**: PHP (acronimo ricorsivo di "PHP: Hypertext Preprocessor") è un linguaggio di scripting interpretato, originariamente concepito per la programmazione di pagine web dinamiche. 
 
 # Database
 
