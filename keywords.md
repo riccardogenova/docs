@@ -17,6 +17,7 @@
 - **Framework e Librerie**: Strumenti come React, Angular, Vue (front-end) o Node.js, Django, Ruby on Rails (back-end) che facilitano lo sviluppo web.
 - **Architettura di microservizi**: L'architettura di microservizi suddivide un'applicazione in una serie di servizi distribuibili in modo indipendente che comunicano tramite API.
 - **Deploy** :  Processo di distribuzione di un'applicazione o di un sistema software in un ambiente operativo o di produzione in modo che sia accessibile e utilizzabile dagli utenti finali.
+- **Responsive Design**: Progettazione di siti web che si adattano a diverse dimensioni di schermo e dispositivi.
 
 # Database
 
