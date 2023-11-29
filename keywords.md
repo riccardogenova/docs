@@ -65,6 +65,7 @@
 - **Ottimizzazione**: Migliorare l'efficienza del codice o delle risorse del sistema.
 - **Concorrenza**: Capacità di un sistema di gestire più attività contemporaneamente, consentendo loro di avanzare in modo apparentemente simultaneo.
 - **Parallelismo**: Esecuzione effettiva di più attività allo stesso momento, generalmente distribuite tra diverse risorse di elaborazione.
+- **Riduzione delle richieste di rete**: Ridurre il numero di richieste di rete necessarie per caricare una pagina può accelerare significativamente il tempo di caricamento. Ciò può essere ottenuto, ad esempio, riducendo il numero di file CSS e JavaScript o combinandoli in un unico file.
 
 # Cloud Computing
 
