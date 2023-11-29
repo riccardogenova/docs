@@ -51,6 +51,7 @@
 - **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 - **Firewall**: Dispositivo di sicurezza che monitora e controlla il traffico di rete.
 - **Penetration Testing**: Attività mirata a testare la sicurezza di un sistema simulando attacchi reali per identificare vulnerabilità.
+- **SQL Injection**: È un tipo di attacco che inietta del codice malevolo all’interno di un database, solitamente sfruttando una vulnerabilità del software.
 
 
 # Performance e Ottimizzazione
