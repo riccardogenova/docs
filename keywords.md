@@ -7,6 +7,7 @@
 - **Functional Programming**: Paradigma di programmazione dove il calcolo è trattato come la valutazione di funzioni matematiche.
 - **TEST**: TEST.
 - **Debugging**: processo di problem solving che porta alla risoluzione di errori nel codice.
+- **Complessità Computazionale**: Concetto chiave che valuta le risorse (tempo, spazio) richieste da un algoritmo. Comprendere la complessità computazionale è fondamentale per progettare algoritmi efficienti.
 
 # Sviluppo Web
 
