@@ -21,6 +21,7 @@
 - **Deploy** : Processo di distribuzione di un'applicazione o di un sistema software in un ambiente operativo o di produzione in modo che sia accessibile e utilizzabile dagli utenti finali.
 - **Responsive Design**: Progettazione di siti web che si adattano a diverse dimensioni di schermo e dispositivi.
 - **PHP**: PHP (acronimo ricorsivo di "PHP: Hypertext Preprocessor") è un linguaggio di scripting interpretato, originariamente concepito per la programmazione di pagine web dinamiche.
+- **Architettura Client/Server**: O semplicemente Client-Server, indica un'architettura di rete nella quale genericamente un computer client o terminale si connette ad un server per usare un servizio come condividere risorse hardware/software con altri client, appoggiandosi alla sottostante architettura protocollare.
 
 # Database
 
