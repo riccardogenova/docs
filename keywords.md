@@ -50,9 +50,8 @@
 
 
 # Data science
-- **Machine learning**: apprendimento automatico dei dati
-- **Data mining**: estrazione di conoscenza dai dati
-- **Data visualization**: rappresentazione visiva dei dati
+- **Data mining**: Il data mining è un processo di estrazione di conoscenza dai dati utilizzando tecniche statistiche e algoritmi di machine learning per identificare pattern e relazioni nei dati.
+- **Data visualization**: La data visualization è il processo di rappresentazione dei dati in modo visivo. I grafici, i diagrammi e le mappe sono tutti esempi di visualizzazione dei dati.
 
 
 # Performance e Ottimizzazione
