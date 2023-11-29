@@ -37,6 +37,7 @@
 # Performance e Ottimizzazione
 - **Scalabilità**: Capacità di un sistema di gestire un crescente numero di richieste.
 - **Ottimizzazione**: Migliorare l'efficienza del codice o delle risorse del sistema.
+- **Web Performance Optimization**: Ottimizzazione delle prestazioni di un sito web, compreso il caricamento veloce delle pagine e l'ottimizzazione delle risorse.
 
 # Cloud Computing
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
