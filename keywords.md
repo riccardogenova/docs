@@ -15,6 +15,7 @@
 - **API (Application Programming Interface)**: Un insieme di regole che permettono alle applicazioni di comunicare tra loro.
 - **Framework e Librerie**: Strumenti come React, Angular, Vue (front-end) o Node.js, Django, Ruby on Rails (back-end) che facilitano lo sviluppo web.
 - **Architettura di microservizi**: L'architettura di microservizi suddivide un'applicazione in una serie di servizi distribuibili in modo indipendente che comunicano tramite API.
+- **Deploy** :  Processo di distribuzione di un'applicazione o di un sistema software in un ambiente operativo o di produzione in modo che sia accessibile e utilizzabile dagli utenti finali.
 
 # Database
 
@@ -28,6 +29,7 @@
 - **Repository**: Raccolta di codice sorgente, documentazione, file di configurazione, ecc.
 - **Fork**: Copia di un repository che ci permette di sperimentare qualsiasi cambiamento vogliamo senza modificare il progetto principale.
 - **Pull Request**:  Una richiesta per integrare le modifiche apportate in un branch in un altro, spesso utilizzato in collaborazione con altri sviluppatori.
+- **GitHub**: Un servizio di hosting per progetti software, implementazione dello strumento di Git.
 
 # Testing e Debugging
 
@@ -47,6 +49,7 @@
 -**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
 - **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 - **Firewall**: Dispositivo di sicurezza che monitora e controlla il traffico di rete.
+- **Penetration Testing**: Attività mirata a testare la sicurezza di un sistema simulando attacchi reali per identificare vulnerabilità.
 
 
 # Data science
@@ -59,6 +62,7 @@
 - **Scalabilità**: Capacità di un sistema di gestire un crescente numero di richieste.
 - **Ottimizzazione**: Migliorare l'efficienza del codice o delle risorse del sistema.
 - **Concorrenza**: Capacità di un sistema di gestire più attività contemporaneamente, consentendo loro di avanzare in modo apparentemente simultaneo.
+- **Parallelismo**: Esecuzione effettiva di più attività allo stesso momento, generalmente distribuite tra diverse risorse di elaborazione.
 
 # Cloud Computing
 
