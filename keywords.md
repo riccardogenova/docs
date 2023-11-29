@@ -27,6 +27,7 @@
 - **Repository**: Raccolta di codice sorgente, documentazione, file di configurazione, ecc.
 - **Fork**: Copia di un repository che ci permette di sperimentare qualsiasi cambiamento vogliamo senza modificare il progetto principale.
 - **Pull Request**:  Una richiesta per integrare le modifiche apportate in un branch in un altro, spesso utilizzato in collaborazione con altri sviluppatori.
+- **Gitignore**: File che specifica quali file o cartelle devono essere ignorati dal controllo versione.
 
 # Testing e Debugging
 
