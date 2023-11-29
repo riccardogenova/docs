@@ -9,6 +9,8 @@
 - **Debugging**: processo di problem solving che porta alla risoluzione di errori nel codice.
 - **Complessità Computazionale**: Concetto chiave che valuta le risorse (tempo, spazio) richieste da un algoritmo. Comprendere la complessità computazionale è fondamentale per progettare algoritmi efficienti.
 - **Declarative Programming**: Paradigma di programmazione secondo cui la logica della computazione viene espressa senza descrivere il suo controllo di flusso.
+- **Commento**: Lasciare nel codice una nota personale, una spiegazione sintetica ma esplicativa di qualche passaggio meno chiaro a colpo d'occhio. (Vedi Documentazione).
+- **Documentazione**: Testo lasciato da noi sviluppatori durante un progetto in team, o dalla casa di rilascio per un programma/ una libreria, per spiegare nel dettaglio come meglio adoperare **funzioni**, **classi**, **metodi** o **moduli** del programma/della libreria. A.K.A. salvavita dei programmatori! (Vedi Commento).
 
 # Sviluppo Web
 
@@ -55,7 +57,8 @@
 
 # Sicurezza
 
-- **Crittografia**: Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. -**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
+- **Crittografia**: Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico.
+- **Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
 - **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 - **Firewall**: Dispositivo di sicurezza che monitora e controlla il traffico di rete.
 - **Penetration Testing**: Attività mirata a testare la sicurezza di un sistema simulando attacchi reali per identificare vulnerabilità.
