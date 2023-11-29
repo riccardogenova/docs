@@ -40,7 +40,7 @@
 - **Unit Testing**: Test di singole parti (unità) di codice.
 - **Integration Testing**: Test su come diverse parti del sistema lavorano insieme.
 - **Debugging**: Processo di individuazione e risoluzione di errori o bug nel codice.
-
+**Fix**: Correggere o risolvere un bug nel codice durante il processo di debugging.
 # Principi di Sviluppo
 
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
