@@ -9,6 +9,7 @@
 - **Debugging**: processo di problem solving che porta alla risoluzione di errori nel codice.
 - **Complessità Computazionale**: Concetto chiave che valuta le risorse (tempo, spazio) richieste da un algoritmo. Comprendere la complessità computazionale è fondamentale per progettare algoritmi efficienti.
 - **Declarative Programming**: Paradigma di programmazione secondo cui la logica della computazione viene espressa senza descrivere il suo controllo di flusso.
+- **Ricorsione**: Tecnica di programmazione in cui una funzione chiama se stessa per risolvere un problema più piccolo.
 
 # Sviluppo Web
 
