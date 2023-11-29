@@ -31,6 +31,7 @@
 - **Pull Request**:  Una richiesta per integrare le modifiche apportate in un branch in un altro, spesso utilizzato in collaborazione con altri sviluppatori.
 - **GitHub**: Un servizio di hosting per progetti software, implementazione dello strumento di Git.
 - **Commit**: Snapshot (istantanea) del repository in uno specifico momento nel tempo. 
+- **Merge**: Comando che serve a combinare più sequenze di commit in una cronologia unificata. Nei casi d’uso più frequenti, git merge viene utilizzato per combinare due branch.
 
 # Testing e Debugging
 
