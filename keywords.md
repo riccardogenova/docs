@@ -8,6 +8,7 @@
 - **TEST**: TEST.
 - **Debugging**: processo di problem solving che porta alla risoluzione di errori nel codice.
 - **Complessità Computazionale**: Concetto chiave che valuta le risorse (tempo, spazio) richieste da un algoritmo. Comprendere la complessità computazionale è fondamentale per progettare algoritmi efficienti.
+- **Declarative Programming**: Paradigma di programmazione secondo cui la logica della computazione viene espressa senza descrivere il suo controllo di flusso.
 
 # Sviluppo Web
 
@@ -58,7 +59,6 @@
 - **Firewall**: Dispositivo di sicurezza che monitora e controlla il traffico di rete.
 - **Penetration Testing**: Attività mirata a testare la sicurezza di un sistema simulando attacchi reali per identificare vulnerabilità.
 - **SQL Injection**: È un tipo di attacco che inietta del codice malevolo all’interno di un database, solitamente sfruttando una vulnerabilità del software.
-
 
 # Performance e Ottimizzazione
 
