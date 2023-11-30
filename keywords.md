@@ -9,6 +9,7 @@
 - **Debugging**: processo di problem solving che porta alla risoluzione di errori nel codice.
 - **Complessità Computazionale**: Concetto chiave che valuta le risorse (tempo, spazio) richieste da un algoritmo. Comprendere la complessità computazionale è fondamentale per progettare algoritmi efficienti.
 - **Declarative Programming**: Paradigma di programmazione secondo cui la logica della computazione viene espressa senza descrivere il suo controllo di flusso.
+- **Array**: Una struttura dati che contiene una collezione di elementi dello stesso tipo, organizzati in un insieme ordinato.
 
 # Sviluppo Web
 
@@ -21,12 +22,14 @@
 - **Deploy** : Processo di distribuzione di un'applicazione o di un sistema software in un ambiente operativo o di produzione in modo che sia accessibile e utilizzabile dagli utenti finali.
 - **Responsive Design**: Progettazione di siti web che si adattano a diverse dimensioni di schermo e dispositivi.
 - **PHP**: PHP (acronimo ricorsivo di "PHP: Hypertext Preprocessor") è un linguaggio di scripting interpretato, originariamente concepito per la programmazione di pagine web dinamiche.
+- **Framework**: Strumenti o librerie predefinite che semplificano lo sviluppo web, come React.js, Angular, Vue.js per JavaScript, o Bootstrap per la progettazione di layout e componenti.
 
 # Database
 
 - **SQL (Structured Query Language)**: Linguaggio standard per gestire i database relazionali.
 - **NoSQL**: Database non relazionali, utilizzati per la grande scalabilità e la flessibilità nell'organizzazione dei dati.
 - **CRUD (Create, Read, Update, Delete)**: Le quattro operazioni di base dei dati.
+- **Query**: Un'istruzione o un comando utilizzato per recuperare, modificare o aggiornare i dati all'interno di un database.
 
 # Controllo Versione
 
@@ -37,13 +40,16 @@
 - **GitHub**: Un servizio di hosting per progetti software, implementazione dello strumento di Git.
 - **Commit**: Snapshot (istantanea) del repository in uno specifico momento nel tempo.
 - **Merge**: Comando che serve a combinare più sequenze di commit in una cronologia unificata. Nei casi d’uso più frequenti, git merge viene utilizzato per combinare due branch.
+- **Branch**: Una linea separata di sviluppo che deriva dal ramo principale (solitamente da "master" o "main") e consente di lavorare su nuove funzionalità o correzioni di bug senza influire direttamente sul ramo principale.
 
 # Testing e Debugging
 
 - **Unit Testing**: Test di singole parti (unità) di codice.
 - **Integration Testing**: Test su come diverse parti del sistema lavorano insieme.
 - **Debugging**: Processo di individuazione e risoluzione di errori o bug nel codice.
-**Fix**: Correggere o risolvere un bug nel codice durante il processo di debugging.
+- **Fix**: Correggere o risolvere un bug nel codice durante il processo di debugging.
+- **Breakpoint** (Punto di Interruzione): Un punto nel codice in cui l'esecuzione viene interrotta temporaneamente durante il debugging per esaminare lo stato del programma.
+
 # Principi di Sviluppo
 
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
@@ -52,6 +58,7 @@
 - **Clean Code**: La scrittura di codice leggibile, manutenibile e comprensibile, seguendo principi come la chiarezza e la modularità.
 - **Machine Learning**: Sottocampo dell’Intelligenza Artificiale che si concentra sulla creazione di modelli e algoritmi che permettono ai computer di apprendere dai dati e fare previsioni o prendere decisioni
 - **Lean**: Metodologia di sviluppo che mira a massimizzare il valore per il cliente eliminando gli sprechi attraverso l'ottimizzazione dei processi e il coinvolgimento attivo dei dipendenti.
+- **Continuous Integration (CI) e Continuous Deployment (CD)**: Metodologie che consentono di integrare regolarmente i cambiamenti nel codice e distribuire il software in modo rapido e sicuro.
 
 # Sicurezza
 
@@ -60,6 +67,7 @@
 - **Firewall**: Dispositivo di sicurezza che monitora e controlla il traffico di rete.
 - **Penetration Testing**: Attività mirata a testare la sicurezza di un sistema simulando attacchi reali per identificare vulnerabilità.
 - **SQL Injection**: È un tipo di attacco che inietta del codice malevolo all’interno di un database, solitamente sfruttando una vulnerabilità del software.
+- **Phishing**: Un tentativo di frode in cui gli aggressori cercano di ottenere informazioni sensibili, come password o dati finanziari, fingendosi entità affidabili.
 
 # Performance e Ottimizzazione
 
@@ -69,11 +77,13 @@
 - **Parallelismo**: Esecuzione effettiva di più attività allo stesso momento, generalmente distribuite tra diverse risorse di elaborazione.
 - **Riduzione delle richieste di rete**: Ridurre il numero di richieste di rete necessarie per caricare una pagina può accelerare significativamente il tempo di caricamento. Ciò può essere ottenuto, ad esempio, riducendo il numero di file CSS e JavaScript o combinandoli in un unico file.
 - **Problem Solving**: Capacità di risoluzione problemi in modo efficace ed efficiente.
+- **Throughput**: La quantità di lavoro completato in un determinato intervallo di tempo.
 
 # Cloud Computing
 
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
 - **Provider Cloud**: Servizi come AWS, Azure, Google Cloud che offrono risorse di computing su internet.
+- **Public Cloud**: Un'infrastruttura cloud accessibile a qualsiasi utente tramite Internet e gestita da un provider di servizi cloud.
 
 # Hardware Virtualization
 
@@ -81,3 +91,4 @@
 - **Paravirtualization**: Host e Guest comunicano tra di loro attraverso APIs specifiche, risultando in performance migliori. L'host dovrà comunque offrire supporto kernel.
 - **OS Level Virtualization**: usato per esempio da docker, l'Host permette instanze multiple di virtualizzazione, chiamate "containers", che hanno accesso a determinati set di risorse sia per motivi di sicurezza, sia per motivi di perfomance. Questo comporta minor "overhead", ma sia Host che Guest devono girare sullo stesso OS.
 - **AI tools**: Saper usare e capire come usare le AI per scrivere,migliorare e capire il codice.
+- **Hypervisor**: Software che consente la creazione e la gestione di macchine virtuali (VM) su un server fisico, consentendo l'esecuzione di più sistemi operativi su una singola macchina.
