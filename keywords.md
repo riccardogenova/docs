@@ -12,6 +12,7 @@
 - **API (Application Programming Interface)**: Un insieme di regole che permettono alle applicazioni di comunicare tra loro.
 - **Framework e Librerie**: Strumenti come React, Angular, Vue (front-end) o Node.js, Django, Ruby on Rails (back-end) che facilitano lo sviluppo web.
 - **Git e Version Control**: Sistema di controllo delle versioni utilizzato per tracciare le modifiche al codice sorgente durante lo sviluppo.
+- **Web Hosting**: Il servizio di fornire spazio su un server per ospitare un sito web e renderlo accessibile su Internet.
 
 # Database
 - **SQL (Structured Query Language)**: Linguaggio standard per gestire i database relazionali.
