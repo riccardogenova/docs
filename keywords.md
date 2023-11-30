@@ -11,6 +11,8 @@
 - **Declarative Programming**: Paradigma di programmazione secondo cui la logica della computazione viene espressa senza descrivere il suo controllo di flusso.
 - **Array**: Una struttura dati che contiene una collezione di elementi dello stesso tipo, organizzati in un insieme ordinato.
 - **Fasi della programmazione**: I passi con cui si sviluppa un programma. Le prime fasi sono strettamente legate alla logica di quello che si va a creare e del suo funzionamento, mentre le ultime sono orientate verso lo specifico linguaggio di programmazione che si intende utilizzare.
+- **Variabili**: Contenitori dati flessibili che cambiano valore nel programma e consentono la manipolazione dinamica delle informazioni.
+- **Metodo Agile**: Una metodologia di sviluppo del software che promuove la collaborazione e il cambiamento flessibile (es. "Scrum", "Kanban").
 
 # Sviluppo Web
 
@@ -25,6 +27,7 @@
 - **PHP**: PHP (acronimo ricorsivo di "PHP: Hypertext Preprocessor") è un linguaggio di scripting interpretato, originariamente concepito per la programmazione di pagine web dinamiche.
 - **Framework**: Strumenti o librerie predefinite che semplificano lo sviluppo web, come React.js, Angular, Vue.js per JavaScript, o Bootstrap per la progettazione di layout e componenti.
 - **Web Browsers e Developer Tools**: Conoscenza dei principali browser web e delle relative strumenti di sviluppo per il debug e il testing.
+- **GraphQL**: Linguaggio di query per le API, offrendo una maggiore flessibilità rispetto alle richieste tradizionali basate su REST.
 
 # Database
 
@@ -33,6 +36,8 @@
 - **CRUD (Create, Read, Update, Delete)**: Le quattro operazioni di base dei dati.
 - **Query**: Un'istruzione o un comando utilizzato per recuperare, modificare o aggiornare i dati all'interno di un database.
 - **RDBMS (Relational Database Management System)**: Un tipo di DBMS che organizza i dati in tabelle relazionali e utilizza il linguaggio SQL per interrogare e manipolare i dati.
+- **Indice**:  Indica una struttura di dati che migliora l'efficienza delle query, accelerando la ricerca e il recupero delle informazioni all'interno di un database.
+- **Indexing**: Il processo di creazione di indici per migliorare le prestazioni delle query database.
 
 # Controllo Versione
 
@@ -45,6 +50,7 @@
 - **Merge**: Comando che serve a combinare più sequenze di commit in una cronologia unificata. Nei casi d’uso più frequenti, git merge viene utilizzato per combinare due branch.
 - **Branch**: Una linea separata di sviluppo che deriva dal ramo principale (solitamente da "master" o "main") e consente di lavorare su nuove funzionalità o correzioni di bug senza influire direttamente sul ramo principale.
 - **Clone**: Creare una copia locale di un repository remoto sul proprio sistema.
+- **Rebase**: Un'operazione di Git che modifica la sequenza di commit per migliorare la pulizia della cronologia di sviluppo.
 
 # Testing e Debugging
 
@@ -54,6 +60,7 @@
 - **Fix**: Correggere o risolvere un bug nel codice durante il processo di debugging.
 - **Breakpoint** (Punto di Interruzione): Un punto nel codice in cui l'esecuzione viene interrotta temporaneamente durante il debugging per esaminare lo stato del programma.
 - **Dynamic Analysis**: L'analisi del comportamento del programma durante l'esecuzione per identificare bug o inefficienze.
+- **Code Coverage**: Percentuale di codice sorgente coperta dai test.
 
 # Principi di Sviluppo
 
@@ -65,6 +72,7 @@
 - **Lean**: Metodologia di sviluppo che mira a massimizzare il valore per il cliente eliminando gli sprechi attraverso l'ottimizzazione dei processi e il coinvolgimento attivo dei dipendenti.
 - **Continuous Integration (CI) e Continuous Deployment (CD)**: Metodologie che consentono di integrare regolarmente i cambiamenti nel codice e distribuire il software in modo rapido e sicuro.
 - **DRY (Don't Repeat Yourself)**: Evitare la duplicazione del codice attraverso l'uso di astrazioni e modularità.
+- **KISS** (Keep It Simple, Stupid): Un principio di progettazione che suggerisce di mantenere le cose il più semplici possibile per evitare complessità inutile.
 
 # Sicurezza
 
@@ -75,6 +83,8 @@
 - **SQL Injection**: È un tipo di attacco che inietta del codice malevolo all’interno di un database, solitamente sfruttando una vulnerabilità del software.
 - **Phishing**: Un tentativo di frode in cui gli aggressori cercano di ottenere informazioni sensibili, come password o dati finanziari, fingendosi entità affidabili.
 - ISO 27001: Standard internazionale per la gestione della sicurezza delle informazioni.
+- **Vulnerabilità**: Debolezza nel sistema o software che può essere sfruttata da attaccanti per compromettere la sicurezza.
+- **DMZ (Demilitarized Zone)**: Una rete intermedia tra la rete interna e quella esterna, spesso utilizzata per ospitare servizi pubblici.
 
 # Performance e Ottimizzazione
 
@@ -86,6 +96,7 @@
 - **Problem Solving**: Capacità di risoluzione problemi in modo efficace ed efficiente.
 - **Throughput**: La quantità di lavoro completato in un determinato intervallo di tempo.
 - **Benchmarking**: Confronto delle prestazioni del sistema o del codice rispetto a un punto di riferimento o a una serie di standard.
+- **Load Balancing**: Distribuzione del traffico tra più server per migliorare la capacità di gestione delle richieste e garantire alta disponibilità.
 
 # Cloud Computing
 
@@ -93,6 +104,8 @@
 - **Provider Cloud**: Servizi come AWS, Azure, Google Cloud che offrono risorse di computing su internet.
 - **Public Cloud**: Un'infrastruttura cloud accessibile a qualsiasi utente tramite Internet e gestita da un provider di servizi cloud.
 - **Identity and Access Management (IAM)**: Gestione delle identità e dei privilegi di accesso per controllare chi ha accesso a quali risorse.
+- **Scalabilità automatica**:indica la capacità di adattare dinamicamente le risorse in risposta alla domanda, garantendo efficienza ed elasticità.
+- **Serverless Computing**: Un modello di cloud computing in cui il provider gestisce dinamicamente le risorse, addebitando solo per l'esecuzione effettiva di codice (es. "AWS Lambda").
 
 # Hardware Virtualization
 
@@ -102,3 +115,4 @@
 - **AI tools**: Saper usare e capire come usare le AI per scrivere,migliorare e capire il codice.
 - **Hypervisor**: Software che consente la creazione e la gestione di macchine virtuali (VM) su un server fisico, consentendo l'esecuzione di più sistemi operativi su una singola macchina.
 - **Host OS (Host Operating System)**: Sistema operativo che esegue direttamente sull'hardware fisico e ospita l'ipervisore.
+- **Hypervisor**: Un software che consente l'esecuzione di macchine virtuali su un sistema host, gestendo l'accesso alle risorse hardware.
