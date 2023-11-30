@@ -1,1 +1,0 @@
-# ciao per la parte avanza vai piu avanti
