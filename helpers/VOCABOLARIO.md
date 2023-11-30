@@ -12,6 +12,7 @@
 - **Fasi della programmazione**: I passi con cui si sviluppa un programma. Le prime fasi sono strettamente legate alla logica di quello che si va a creare e del suo funzionamento, mentre le ultime sono orientate verso lo specifico linguaggio di programmazione che si intende utilizzare.
 - **Variabili**: Contenitori dati flessibili che cambiano valore nel programma e consentono la manipolazione dinamica delle informazioni.
 - **Metodo Agile**: Una metodologia di sviluppo del software che promuove la collaborazione e il cambiamento flessibile (es. "Scrum", "Kanban").
+  **desktop**: si pronuncia come "desk" - /dɛsk/ "top" - /tɒp/ Si riferisce all'interfaccia grafica utente (GUI) di un sistema operativo
 
 # Sviluppo Web
 
@@ -31,6 +32,7 @@
 
 # Database
 
+- **DBMS (Database Management System)**: Il software che consente di creare, gestire e interagire con un database. Esempi includono MySQL, PostgreSQL, MongoDB, Oracle.
 - **SQL (Structured Query Language)**: Linguaggio standard per gestire i database relazionali.
 - **NoSQL**: Database non relazionali, utilizzati per la grande scalabilità e la flessibilità nell'organizzazione dei dati.
 - **CRUD (Create, Read, Update, Delete)**: Le quattro operazioni di base dei dati.
@@ -52,9 +54,11 @@
 - **Branch**: Una linea separata di sviluppo che deriva dal ramo principale (solitamente da "master" o "main") e consente di lavorare su nuove funzionalità o correzioni di bug senza influire direttamente sul ramo principale.
 - **Clone**: Creare una copia locale di un repository remoto sul proprio sistema.
 - **Rebase**: Un'operazione di Git che modifica la sequenza di commit per migliorare la pulizia della cronologia di sviluppo.
+- **Conflict**: Una situazione in cui ci sono modifiche conflittuali tra branch o commit e che richiede risoluzione manuale.
 
 # Testing e Debugging
 
+- **End-to-End Testing**: Un tipo di test che verifica il flusso completo di un'applicazione, dalla sua interfaccia utente fino ai componenti back-end.
 - **Unit Testing**: Test di singole parti (unità) di codice.
 - **Integration Testing**: Test su come diverse parti del sistema lavorano insieme.
 - **Debugging**: Processo di individuazione e risoluzione di errori o bug nel codice.
@@ -65,7 +69,7 @@
 
 # Principi di Sviluppo
 
-- **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
+- **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua. -**Scrum**: Un framework agile che organizza lo sviluppo software in iterazioni chiamate sprint, con una pianificazione regolare e una riflessione continua.
 - **Waterfall**: La metodologia waterfall prevede una gestione sequenziale dei progetti, suddivisa in fasi distinte.
 - **DevOps**: Pratica che punta all'unificazione dello sviluppo software (Dev) e delle operazioni IT (Ops).
 - **Clean Code**: La scrittura di codice leggibile, manutenibile e comprensibile, seguendo principi come la chiarezza e la modularità.
@@ -102,6 +106,7 @@
 
 # Cloud Computing
 
+- **Server Farm**: Un insieme di server fisici o virtuali collegati in rete per fornire risorse informatiche scalabili e ridondanti.
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
 - **Provider Cloud**: Servizi come AWS, Azure, Google Cloud che offrono risorse di computing su internet.
 - **Public Cloud**: Un'infrastruttura cloud accessibile a qualsiasi utente tramite Internet e gestita da un provider di servizi cloud.
@@ -118,3 +123,4 @@
 - **Hypervisor**: Software che consente la creazione e la gestione di macchine virtuali (VM) su un server fisico, consentendo l'esecuzione di più sistemi operativi su una singola macchina.
 - **Host OS (Host Operating System)**: Sistema operativo che esegue direttamente sull'hardware fisico e ospita l'ipervisore.
 - **Hypervisor**: Un software che consente l'esecuzione di macchine virtuali su un sistema host, gestendo l'accesso alle risorse hardware.
+- **Host Machine**: Il server fisico su cui è installato l'hypervisor e che gestisce una o più macchine virtuali.
