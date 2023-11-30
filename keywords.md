@@ -26,11 +26,12 @@
 - **Unit Testing**: Test di singole parti (unità) di codice.
 - **Integration Testing**: Test su come diverse parti del sistema lavorano insieme.
 - **Debugging**: Processo di individuazione e risoluzione di errori o bug nel codice.
+- **Mocking**: Creare simulacri di componenti del sistema per testare le parti in isolamento.
 
 # Principi di Sviluppo
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
 - **DevOps**: Pratica che punta all'unificazione dello sviluppo software (Dev) e delle operazioni IT (Ops).
-
+-**Equità**: Assicurare che le risorse e i benefici dello sviluppo siano distribuiti in modo equo, riducendo le disuguaglianze e promuovendo l'accesso equo alle opportunità.
 # Sicurezza
 - **Crittografia**: Proteggere le informazioni attraverso la codifica.
 - **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
@@ -46,5 +47,5 @@
 - **Bursting dei cloud**:Una configurazione di cloud computing che consente a un cloud privato di accedere alle risorse del cloud pubblico "irrompendo" in un cloud pubblico quando la domanda di elaborazione aumenta.
 - **Calcolo Serverless**: Un modello di cloud computing in cui il fornitore cloud gestisce l'infrastruttura, e gli utenti devono solo concentrarsi sulla scrittura del codice per le proprie applicazioni.
 - **Cloud Ibrido**: Una combinazione di servizi cloud pubblici e privati, che consente la condivisione di dati e applicazioni tra di essi.
-
-
+- **Cloud Privato**: Infrastruttura cloud e servizi utilizzati esclusivamente da un'organizzazione.
+- **Cloud Pubblico**: Infrastruttura cloud e servizi resi disponibili al pubblico in generale da un fornitore di servizi.
