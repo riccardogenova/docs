@@ -13,6 +13,8 @@
 - **Fasi della programmazione**: I passi con cui si sviluppa un programma. Le prime fasi sono strettamente legate alla logica di quello che si va a creare e del suo funzionamento, mentre le ultime sono orientate verso lo specifico linguaggio di programmazione che si intende utilizzare.
 - **Variabili**: Contenitori dati flessibili che cambiano valore nel programma e consentono la manipolazione dinamica delle informazioni.
 - **Metodo Agile**: Una metodologia di sviluppo del software che promuove la collaborazione e il cambiamento flessibile (es. "Scrum", "Kanban").
+- **Reti Informatiche**: Connessioni di computer e dispositivi che consentono la condivisione di risorse e informazioni.
+- **Intelligenza Artificiale e Apprendimento Automatico**: Approfondire i concetti di base dell'IA e dell'apprendimento automatico.
 
 # Sviluppo Web
 
@@ -28,6 +30,8 @@
 - **Framework**: Strumenti o librerie predefinite che semplificano lo sviluppo web, come React.js, Angular, Vue.js per JavaScript, o Bootstrap per la progettazione di layout e componenti.
 - **Web Browsers e Developer Tools**: Conoscenza dei principali browser web e delle relative strumenti di sviluppo per il debug e il testing.
 - **GraphQL**: Linguaggio di query per le API, offrendo una maggiore flessibilità rispetto alle richieste tradizionali basate su REST.
+- **Web Hosting**: Servizio che consente a siti web di essere accessibili tramite Internet.
+- **WebAssembly (Wasm)**: Esplorare questa tecnologia che consente di eseguire codice di basso livello nei browser con prestazioni quasi native.
 
 # Database
 
@@ -36,8 +40,10 @@
 - **CRUD (Create, Read, Update, Delete)**: Le quattro operazioni di base dei dati.
 - **Query**: Un'istruzione o un comando utilizzato per recuperare, modificare o aggiornare i dati all'interno di un database.
 - **RDBMS (Relational Database Management System)**: Un tipo di DBMS che organizza i dati in tabelle relazionali e utilizza il linguaggio SQL per interrogare e manipolare i dati.
-- **Indice**:  Indica una struttura di dati che migliora l'efficienza delle query, accelerando la ricerca e il recupero delle informazioni all'interno di un database.
+- **Indice**: Indica una struttura di dati che migliora l'efficienza delle query, accelerando la ricerca e il recupero delle informazioni all'interno di un database.
 - **Indexing**: Il processo di creazione di indici per migliorare le prestazioni delle query database.
+- **Backup e Restore**: Pratica di creare copie dei dati per prevenire la perdita di informazioni importanti.
+- **In-Memory Databases**: Esplorare l'uso di database in-memory per migliorare le prestazioni dell'accesso ai dati.
 
 # Controllo Versione
 
@@ -51,6 +57,8 @@
 - **Branch**: Una linea separata di sviluppo che deriva dal ramo principale (solitamente da "master" o "main") e consente di lavorare su nuove funzionalità o correzioni di bug senza influire direttamente sul ramo principale.
 - **Clone**: Creare una copia locale di un repository remoto sul proprio sistema.
 - **Rebase**: Un'operazione di Git che modifica la sequenza di commit per migliorare la pulizia della cronologia di sviluppo.
+- **Bitbucket**: Piattaforma di gestione del codice sorgente che supporta Git e Mercurial, con funzionalità di repository, problemi e pipeline di integrazione continua.
+- **Git Submodules e Subtrees**: Comprendere come gestire dipendenze esterne nei progetti Git utilizzando submodules o subtrees.
 
 # Testing e Debugging
 
@@ -61,6 +69,8 @@
 - **Breakpoint** (Punto di Interruzione): Un punto nel codice in cui l'esecuzione viene interrotta temporaneamente durante il debugging per esaminare lo stato del programma.
 - **Dynamic Analysis**: L'analisi del comportamento del programma durante l'esecuzione per identificare bug o inefficienze.
 - **Code Coverage**: Percentuale di codice sorgente coperta dai test.
+- **Stress Testing**: Test per determinare come un sistema gestisce le condizioni al limite o oltre la sua capacità prevista.
+- **Mutation Testing**: Esplorare la tecnica di mutation testing per valutare la qualità dei tuoi test, introducendo modifiche simulate nel codice sorgente.
 
 # Principi di Sviluppo
 
@@ -73,6 +83,8 @@
 - **Continuous Integration (CI) e Continuous Deployment (CD)**: Metodologie che consentono di integrare regolarmente i cambiamenti nel codice e distribuire il software in modo rapido e sicuro.
 - **DRY (Don't Repeat Yourself)**: Evitare la duplicazione del codice attraverso l'uso di astrazioni e modularità.
 - **KISS** (Keep It Simple, Stupid): Un principio di progettazione che suggerisce di mantenere le cose il più semplici possibile per evitare complessità inutile.
+- **Docker**: Piattaforma di containerizzazione che semplifica la distribuzione di applicazioni in ambienti isolati chiamati container.
+- **Technical Debt**: Il concetto di "debito tecnico" si riferisce al costo cumulativo delle scelte di progettazione veloci o temporanee che possono richiedere refactoring in futuro.
 
 # Sicurezza
 
@@ -85,6 +97,8 @@
 - ISO 27001: Standard internazionale per la gestione della sicurezza delle informazioni.
 - **Vulnerabilità**: Debolezza nel sistema o software che può essere sfruttata da attaccanti per compromettere la sicurezza.
 - **DMZ (Demilitarized Zone)**: Una rete intermedia tra la rete interna e quella esterna, spesso utilizzata per ospitare servizi pubblici.
+- **CISO (Chief Information Security Officer)**: Responsabile della sicurezza delle informazioni in un'organizzazione.
+- **Legal and Ethical Aspects of Cybersecurity**: Comprendere le implicazioni legali ed etiche legate alla sicurezza informatica, inclusa la conformità alle normative sulla privacy dei dati.
 
 # Performance e Ottimizzazione
 
@@ -97,6 +111,8 @@
 - **Throughput**: La quantità di lavoro completato in un determinato intervallo di tempo.
 - **Benchmarking**: Confronto delle prestazioni del sistema o del codice rispetto a un punto di riferimento o a una serie di standard.
 - **Load Balancing**: Distribuzione del traffico tra più server per migliorare la capacità di gestione delle richieste e garantire alta disponibilità.
+- **Database Indexing**: Tecnica di ottimizzazione dei database che accelera il processo di recupero dei dati.
+- **Web Assembly**: Esplorare l'uso di WebAssembly per eseguire codice in modo più efficiente nei browser.
 
 # Cloud Computing
 
@@ -106,6 +122,8 @@
 - **Identity and Access Management (IAM)**: Gestione delle identità e dei privilegi di accesso per controllare chi ha accesso a quali risorse.
 - **Scalabilità automatica**:indica la capacità di adattare dinamicamente le risorse in risposta alla domanda, garantendo efficienza ed elasticità.
 - **Serverless Computing**: Un modello di cloud computing in cui il provider gestisce dinamicamente le risorse, addebitando solo per l'esecuzione effettiva di codice (es. "AWS Lambda").
+- **Data Migration**: Trasferimento dei dati da un ambiente all'altro, ad esempio da server locali a un ambiente cloud.
+- **Cost Management**: Imparare a gestire i costi nell'ambiente cloud, utilizzando strumenti di monitoraggio e adottando pratiche di costo ottimizzato.
 
 # Hardware Virtualization
 
@@ -116,3 +134,5 @@
 - **Hypervisor**: Software che consente la creazione e la gestione di macchine virtuali (VM) su un server fisico, consentendo l'esecuzione di più sistemi operativi su una singola macchina.
 - **Host OS (Host Operating System)**: Sistema operativo che esegue direttamente sull'hardware fisico e ospita l'ipervisore.
 - **Hypervisor**: Un software che consente l'esecuzione di macchine virtuali su un sistema host, gestendo l'accesso alle risorse hardware.
+- **Firmware**: Software incorporato in hardware, spesso essenziale per il corretto funzionamento dei dispositivi.
+- **Machine Learning in Virtualization**: Esplorare come le tecnologie di machine learning possano essere integrate per ottimizzare le operazioni di virtualizzazione e migliorare le prestazioni.
