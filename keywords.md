@@ -8,7 +8,7 @@
 - **TEST**: TEST.
 - **Debugging**: processo di problem solving che porta alla risoluzione di errori nel codice.
 - **Complessità Computazionale**: Concetto chiave che valuta le risorse (tempo, spazio) richieste da un algoritmo. Comprendere la complessità computazionale è fondamentale per progettare algoritmi efficienti.
-- **Declarative Programming**: Paradigma di programmazione secondo cui la logica della computazione viene espressa senza descrivere il suo controllo di flusso.
+- **Declarative Programming**: Paradigma di programmazione secondo cui la logica della computazione viene espressa senza descrivere il suo controllo di flusso. -**Strutture di controllo**: Guidano l'esecuzione del programma. Include istruzioni condizionali come "if", "else" e cicli come "for" e "while".
 
 # Sviluppo Web
 
@@ -20,13 +20,13 @@
 - **Architettura di microservizi**: L'architettura di microservizi suddivide un'applicazione in una serie di servizi distribuibili in modo indipendente che comunicano tramite API.
 - **Deploy** : Processo di distribuzione di un'applicazione o di un sistema software in un ambiente operativo o di produzione in modo che sia accessibile e utilizzabile dagli utenti finali.
 - **Responsive Design**: Progettazione di siti web che si adattano a diverse dimensioni di schermo e dispositivi.
-- **PHP**: PHP (acronimo ricorsivo di "PHP: Hypertext Preprocessor") è un linguaggio di scripting interpretato, originariamente concepito per la programmazione di pagine web dinamiche.
+- **PHP**: PHP (acronimo ricorsivo di "PHP: Hypertext Preprocessor") è un linguaggio di scripting interpretato, originariamente concepito per la programmazione di pagine web dinamiche. -**Controllo delle versioni**: Strumenti come Git vengono utilizzati per tracciare e gestire le modifiche al codice sorgente, consentendo il lavoro collaborativo.
 
 # Database
 
 - **SQL (Structured Query Language)**: Linguaggio standard per gestire i database relazionali.
 - **NoSQL**: Database non relazionali, utilizzati per la grande scalabilità e la flessibilità nell'organizzazione dei dati.
-- **CRUD (Create, Read, Update, Delete)**: Le quattro operazioni di base dei dati.
+- **CRUD (Create, Read, Update, Delete)**: Le quattro operazioni di base dei dati. -**Query**: Un'istruzione SQL utilizzata per estrarre o manipolare dati.
 
 # Controllo Versione
 
@@ -36,14 +36,15 @@
 - **Pull Request**: Una richiesta per integrare le modifiche apportate in un branch in un altro, spesso utilizzato in collaborazione con altri sviluppatori.
 - **GitHub**: Un servizio di hosting per progetti software, implementazione dello strumento di Git.
 - **Commit**: Snapshot (istantanea) del repository in uno specifico momento nel tempo.
-- **Merge**: Comando che serve a combinare più sequenze di commit in una cronologia unificata. Nei casi d’uso più frequenti, git merge viene utilizzato per combinare due branch.
+- **Merge**: Comando che serve a combinare più sequenze di commit in una cronologia unificata. Nei casi d’uso più frequenti, git merge viene utilizzato per combinare due branch. -**Clone**: Creare una copia locale di un repository remoto.
 
 # Testing e Debugging
 
 - **Unit Testing**: Test di singole parti (unità) di codice.
 - **Integration Testing**: Test su come diverse parti del sistema lavorano insieme.
 - **Debugging**: Processo di individuazione e risoluzione di errori o bug nel codice.
-**Fix**: Correggere o risolvere un bug nel codice durante il processo di debugging.
+  **Fix**: Correggere o risolvere un bug nel codice durante il processo di debugging. -**Breakpoints**: Sospendere l'esecuzione in un punto specifico per esaminare lo stato del sistema.
+
 # Principi di Sviluppo
 
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
@@ -51,7 +52,7 @@
 - **DevOps**: Pratica che punta all'unificazione dello sviluppo software (Dev) e delle operazioni IT (Ops).
 - **Clean Code**: La scrittura di codice leggibile, manutenibile e comprensibile, seguendo principi come la chiarezza e la modularità.
 - **Machine Learning**: Sottocampo dell’Intelligenza Artificiale che si concentra sulla creazione di modelli e algoritmi che permettono ai computer di apprendere dai dati e fare previsioni o prendere decisioni
-- **Lean**: Metodologia di sviluppo che mira a massimizzare il valore per il cliente eliminando gli sprechi attraverso l'ottimizzazione dei processi e il coinvolgimento attivo dei dipendenti.
+- **Lean**: Metodologia di sviluppo che mira a massimizzare il valore per il cliente eliminando gli sprechi attraverso l'ottimizzazione dei processi e il coinvolgimento attivo dei dipendenti. -**KISS (Keep it Simple, Stupid)**: Scrivi codice chiaro, leggibile e senza complicazioni eccessive.
 
 # Sicurezza
 
@@ -59,7 +60,7 @@
 - **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 - **Firewall**: Dispositivo di sicurezza che monitora e controlla il traffico di rete.
 - **Penetration Testing**: Attività mirata a testare la sicurezza di un sistema simulando attacchi reali per identificare vulnerabilità.
-- **SQL Injection**: È un tipo di attacco che inietta del codice malevolo all’interno di un database, solitamente sfruttando una vulnerabilità del software.
+- **SQL Injection**: È un tipo di attacco che inietta del codice malevolo all’interno di un database, solitamente sfruttando una vulnerabilità del software. -**PoLP: Principio del Minimo Privilegio**: Fornisci agli utenti e ai sistemi solo i privilegi necessari per svolgere il loro lavoro.
 
 # Performance e Ottimizzazione
 
@@ -68,12 +69,12 @@
 - **Concorrenza**: Capacità di un sistema di gestire più attività contemporaneamente, consentendo loro di avanzare in modo apparentemente simultaneo.
 - **Parallelismo**: Esecuzione effettiva di più attività allo stesso momento, generalmente distribuite tra diverse risorse di elaborazione.
 - **Riduzione delle richieste di rete**: Ridurre il numero di richieste di rete necessarie per caricare una pagina può accelerare significativamente il tempo di caricamento. Ciò può essere ottenuto, ad esempio, riducendo il numero di file CSS e JavaScript o combinandoli in un unico file.
-- **Problem Solving**: Capacità di risoluzione problemi in modo efficace ed efficiente.
+- **Problem Solving**: Capacità di risoluzione problemi in modo efficace ed efficiente. -**CDN (Content Delivery Network)**: Distribuire risorse statiche per ridurre la latenza di caricamneto per gli utenti in tutto il mondo.
 
 # Cloud Computing
 
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
-- **Provider Cloud**: Servizi come AWS, Azure, Google Cloud che offrono risorse di computing su internet.
+- **Provider Cloud**: Servizi come AWS, Azure, Google Cloud che offrono risorse di computing su internet. -**Vantaggi**: Costi flessibili, scalabilità, agilità, riduzione del carico operativo.
 
 # Hardware Virtualization
 
