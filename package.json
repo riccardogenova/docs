@@ -1,0 +1,24 @@
+{
+  "name": "im-rookie-dev",
+  "version": "0.0.1",
+  "scripts": {
+    "format": "prettier --ignore-path .gitignore \"src/**/*.+(ts|js|tsx|scss|css|jsx)\" --write",
+    "generate:release": "standard-version",
+    "postinstall": "node ./bin/postInstall"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.1.0"
+  },
+  "validate-branch-name": {
+    "pattern": "^(main){1}$|^(feat)(/[a-z-]+){1,2}$|^(release)/v([0-9]+).([0-9]+).([0-9]+)(?:-([0-9]+))?$|^(hotfix)/[a-z-]+$|^(fix)/[a-z-]+$|^(experimental)/[a-z-]+$",
+    "errorMsg": "There is something wrong with your branch name. Your commit will be rejected. You should rename your branch to a valid name and try again."
+  },
+  "lint-staged": {
+    "./src/**/*.{ts,js,jsx,tsx}": [
+      "yarn format"
+    ]
+  }
+}
