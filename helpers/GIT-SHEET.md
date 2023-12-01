@@ -1,4 +1,4 @@
-# Comandi GIT
+# Git Cheat Sheet
 
 ### Comandi di Base
 
