@@ -41,4 +41,4 @@
 12. grazie alla tua ansia d'arrivare in ritardo sei arrivato alle 7:20 cerca un collega per andare al bar
 13. non serve considerare che nessuno sia ancora arrivato tanto c'è lorenzo, vai al bar
 14. prendi il caffè
-15. dirigiti all'istituto per la lezione
+15. dirigiti all'istituto per la lezione.
