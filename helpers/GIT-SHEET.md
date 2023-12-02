@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # Git Cheat Sheet
 
 ### Comandi di Base
@@ -39,6 +41,7 @@
 
 - `git branch`: Mostra l'elenco dei rami presenti.
 - `git branch nome_ramo`: Crea un nuovo ramo.
+- `git branch -d nome_ramo`: Cancella il ramo.
 - `git checkout nome_ramo`: Cambia ramo.
 - `git checkout -b nome_ramo`: Crea e passa a un nuovo ramo.
 
@@ -53,6 +56,7 @@
 - `git remote add nome_remoto url_remoto`: Collega un repository remoto.
 - `git push nome_remoto nome_ramo`: Carica un ramo su un repository remoto.
 - `git pull nome_remoto nome_ramo`: Scarica e fonde un ramo da un repository remoto.
+- `git remote rename origin nuovo-nome`: Rinomina il repo da origin a nuovo-nome.
 
 #### Altro
 
