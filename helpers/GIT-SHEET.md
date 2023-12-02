@@ -70,6 +70,8 @@
 
 - `git diff nome_branch1..nome_branch2`: Mostra le differenze tra due rami.
 - `git mergetool`: Avvia un tool di merge per risolvere conflitti.
+- `git reset nome-del-file`: Rimuove il file dalla zona di staging.
+- `git reset --hard HASH-del-commit`: Resetta il repo al commit specificato eliminando quelli successivi.
 
 ### Sviluppo Distribuito
 
