@@ -60,7 +60,6 @@
 
 #### Altro
 
-- `git clone url_repository`: Clona un repository Git esistente nella tua directory locale.
 - `git fetch`: Recupera i riferimenti dai repository remoti senza effettuare il merge.
 - `git diff`: Mostra le modifiche tra l'area di staging e l'ultimo commit.
 - `git stash`: Mette da parte temporaneamente le modifiche non commesse.
