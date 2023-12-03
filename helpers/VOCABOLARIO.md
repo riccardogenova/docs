@@ -85,6 +85,7 @@
 - ISO 27001: Standard internazionale per la gestione della sicurezza delle informazioni.
 - **Vulnerabilità**: Debolezza nel sistema o software che può essere sfruttata da attaccanti per compromettere la sicurezza.
 - **DMZ (Demilitarized Zone)**: Una rete intermedia tra la rete interna e quella esterna, spesso utilizzata per ospitare servizi pubblici.
+- **SonarQube**: SonarQube è un'applicazione open source per la gestione della qualità del codice. Offre una varietà di funzionalità per la sicurezza del codice, tra cui analisi statica, test di vulnerabilità e monitoraggio della sicurezza.
 
 # Performance e Ottimizzazione
 
