@@ -38,7 +38,7 @@
 - **RDBMS (Relational Database Management System)**: Un tipo di DBMS che organizza i dati in tabelle relazionali e utilizza il linguaggio SQL per interrogare e manipolare i dati.
 - **Indice**: Indica una struttura di dati che migliora l'efficienza delle query, accelerando la ricerca e il recupero delle informazioni all'interno di un database.
 - **Indexing**: Il processo di creazione di indici per migliorare le prestazioni delle query database.
-- **Normalizzazione**: Processo di organizzazione e progettazione di una struttura dati in modo efficiente, riducendo la ridondanza delle informazioni e migliorando la coerenza dei dati. 
+- **Normalizzazione**: Processo di organizzazione e progettazione di una struttura dati in modo efficiente, riducendo la ridondanza delle informazioni e migliorando la coerenza dei dati.
 
 # Controllo Versione
 
@@ -77,7 +77,8 @@
 
 # Sicurezza
 
-- **Crittografia**: Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. -**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
+- **Crittografia**: Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico.
+-**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
 - **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 - **Firewall**: Dispositivo di sicurezza che monitora e controlla il traffico di rete.
 - **Penetration Testing**: Attività mirata a testare la sicurezza di un sistema simulando attacchi reali per identificare vulnerabilità.
