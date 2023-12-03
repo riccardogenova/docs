@@ -1,5 +1,3 @@
-Ecco la traduzione in italiano:
-
 ## Descrizione
 
 _Per favore, includi un riepilogo delle modifiche e dei problemi risolti_
