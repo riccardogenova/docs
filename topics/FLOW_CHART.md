@@ -17,3 +17,6 @@ Ecco alcuni degli elementi chiave di un flowchart:
 4. **Rami**: I rami sono usati per rappresentare decisioni. Quando un processo ha opzioni multiple da seguire in base a una condizione o a una decisione, i rami consentono di indicare questi percorsi alternativi. Di solito, un rombo viene utilizzato per rappresentare un punto di decisione, e le frecce escono da esso per indicare le opzioni.
 
 5. **Connessioni**: Le connessioni tra nodi e frecce determinano il flusso logico del processo. Le frecce devono essere collegate in modo coerente per garantire che il processo segua la sequenza prevista.
+
+6. **Mermaid**: Mermaid è uno strumento per la creazione di grafici e diagrammi direttamente su di un file Markdown.
+Nel caso di Visual Studio Code si deve semplicemente installare l'estensione "Markdown Preview Mermaid Support".
