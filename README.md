@@ -1,7 +1,3 @@
-
-
-  ![DALL·E 2023-11-20 23 27 33 - An open-source software development guidebook aimed at new developers, featuring a modern, sleek cover adorned with coding and technology symbols like](https://github.com/riccardogenova-bitrocket-studio/docs/assets/17598688/b70392af-8ef7-4ffe-a26a-78d0828d966c)
-
 # Guida per nuovi sviluppatori
 
 Benvenuti nella mia guida per nuovi sviluppatori! Questo progetto è dedicato a tutti coloro che stanno iniziando il loro viaggio nel mondo dello sviluppo software e hanno bisogno di consigli, indicazioni e risorse per iniziare.
