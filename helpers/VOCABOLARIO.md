@@ -39,6 +39,7 @@
 - **Indice**: Indica una struttura di dati che migliora l'efficienza delle query, accelerando la ricerca e il recupero delle informazioni all'interno di un database.
 - **Indexing**: Il processo di creazione di indici per migliorare le prestazioni delle query database.
 - **Normalizzazione**: Processo di organizzazione e progettazione di una struttura dati in modo efficiente, riducendo la ridondanza delle informazioni e migliorando la coerenza dei dati. 
+- **Denormalizzazione**: Processo di progettazione di database in cui si introduce volontariamente la ridondanza dei dati al fine di migliorare le prestazioni delle query.
 
 # Controllo Versione
 
