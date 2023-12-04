@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # Tutte le parole chiave per fare bella figura nel mondo IT
 
 - **Algoritmo**: Una serie di istruzioni step-by-step per eseguire un compito specifico.
@@ -38,7 +40,7 @@
 - **RDBMS (Relational Database Management System)**: Un tipo di DBMS che organizza i dati in tabelle relazionali e utilizza il linguaggio SQL per interrogare e manipolare i dati.
 - **Indice**: Indica una struttura di dati che migliora l'efficienza delle query, accelerando la ricerca e il recupero delle informazioni all'interno di un database.
 - **Indexing**: Il processo di creazione di indici per migliorare le prestazioni delle query database.
-- **Normalizzazione**: Processo di organizzazione e progettazione di una struttura dati in modo efficiente, riducendo la ridondanza delle informazioni e migliorando la coerenza dei dati. 
+- **Normalizzazione**: Processo di organizzazione e progettazione di una struttura dati in modo efficiente, riducendo la ridondanza delle informazioni e migliorando la coerenza dei dati.
 
 # Controllo Versione
 
@@ -118,3 +120,4 @@
 - **Hypervisor**: Software che consente la creazione e la gestione di macchine virtuali (VM) su un server fisico, consentendo l'esecuzione di più sistemi operativi su una singola macchina.
 - **Host OS (Host Operating System)**: Sistema operativo che esegue direttamente sull'hardware fisico e ospita l'ipervisore.
 - **Hypervisor**: Un software che consente l'esecuzione di macchine virtuali su un sistema host, gestendo l'accesso alle risorse hardware.
+- **Nested Virtualization** : Capacità di eseguire una macchina virtuale all'interno di un'altra, consentendo la virtualizzazione all'interno di un ambiente già virtualizzato.
