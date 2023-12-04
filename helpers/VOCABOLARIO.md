@@ -1,15 +1,20 @@
-# Fondamentali di Programmazione
+<!-- @format -->
+
+# Tutte le parole chiave per fare bella figura nel mondo IT
 
 - **Algoritmo**: Una serie di istruzioni step-by-step per eseguire un compito specifico.
 - **Struttura Dati**: Modi di organizzare i dati per un accesso e una manipolazione efficienti (es. array, lista, coda, pila, albero, grafico).
 - **OOP (Object-Oriented Programming)**: Paradigma di programmazione basato su "oggetti", che possono contenere dati e metodi.
 - **Procedural Programming**: Un tipo di programmazione imperativa basata su procedure o funzioni.
 - **Functional Programming**: Paradigma di programmazione dove il calcolo è trattato come la valutazione di funzioni matematiche.
-- **TEST**: TEST.
 - **Debugging**: processo di problem solving che porta alla risoluzione di errori nel codice.
 - **Complessità Computazionale**: Concetto chiave che valuta le risorse (tempo, spazio) richieste da un algoritmo. Comprendere la complessità computazionale è fondamentale per progettare algoritmi efficienti.
 - **Declarative Programming**: Paradigma di programmazione secondo cui la logica della computazione viene espressa senza descrivere il suo controllo di flusso.
 - **Tipizzazione forte/Tipizzazione debole**: Tipologie di variabile; tipizzazione forte significa che si va a dichiarare il tipo di variabile (intero, carattere, enumerato). Tale tipo resterà lo stesso per tutta la durata dell'esecuzione del programma; tipizzazione debole significa che, in istanti diversi di esecuzione, la variabile potrà contenere tipi di dato diversi. In questo caso non si va a dichiarare il tipo.
+- **Array**: Una struttura dati che contiene una collezione di elementi dello stesso tipo, organizzati in un insieme ordinato.
+- **Fasi della programmazione**: I passi con cui si sviluppa un programma. Le prime fasi sono strettamente legate alla logica di quello che si va a creare e del suo funzionamento, mentre le ultime sono orientate verso lo specifico linguaggio di programmazione che si intende utilizzare.
+- **Variabili**: Contenitori dati flessibili che cambiano valore nel programma e consentono la manipolazione dinamica delle informazioni.
+- **Metodo Agile**: Una metodologia di sviluppo del software che promuove la collaborazione e il cambiamento flessibile (es. "Scrum", "Kanban"). -**Classe**: Costrutto di un linguaggio di programmazione, usato come modello, che serve a creare oggetti. Il modello comprende metodi e proprietà che saranno condivisi da tutti gli oggetti creati a partire dalla classe.
 
 # Sviluppo Web
 
@@ -23,6 +28,10 @@
 - **Responsive Design**: Progettazione di siti web che si adattano a diverse dimensioni di schermo e dispositivi.
 - **PHP**: PHP (acronimo ricorsivo di "PHP: Hypertext Preprocessor") è un linguaggio di scripting interpretato, originariamente concepito per la programmazione di pagine web dinamiche.
 - **Browser**: Software che permette la visualizzazione di pagine web.
+- **Framework**: Strumenti o librerie predefinite che semplificano lo sviluppo web, come React.js, Angular, Vue.js per JavaScript, o Bootstrap per la progettazione di layout e componenti.
+- **Web Browsers e Developer Tools**: Conoscenza dei principali browser web e delle relative strumenti di sviluppo per il debug e il testing.
+- **GraphQL**: Linguaggio di query per le API, offrendo una maggiore flessibilità rispetto alle richieste tradizionali basate su REST.
+- **SEO (Search Engine Optimization)**: Implementazione di strategie per migliorare la visibilità dei contenuti web sui motori di ricerca, migliorando il posizionamento organico nelle ricerche.
 
 # Database
 
@@ -30,6 +39,12 @@
 - **NoSQL**: Database non relazionali, utilizzati per la grande scalabilità e la flessibilità nell'organizzazione dei dati.
 - **CRUD (Create, Read, Update, Delete)**: Le quattro operazioni di base dei dati.
 - **DBMS**: Sistema software che serve a creare, gestire e manipolare uno o più database.
+- **Query**: Un'istruzione o un comando utilizzato per recuperare, modificare o aggiornare i dati all'interno di un database.
+- **RDBMS (Relational Database Management System)**: Un tipo di DBMS che organizza i dati in tabelle relazionali e utilizza il linguaggio SQL per interrogare e manipolare i dati.
+- **Indice**: Indica una struttura di dati che migliora l'efficienza delle query, accelerando la ricerca e il recupero delle informazioni all'interno di un database.
+- **Indexing**: Il processo di creazione di indici per migliorare le prestazioni delle query database.
+- **Normalizzazione**: Processo di organizzazione e progettazione di una struttura dati in modo efficiente, riducendo la ridondanza delle informazioni e migliorando la coerenza dei dati.
+- **Ridondanza**: Informazione duplicata.
 
 # Controllo Versione
 
@@ -40,7 +55,10 @@
 - **GitHub**: Un servizio di hosting per progetti software, implementazione dello strumento di Git.
 - **Commit**: Snapshot (istantanea) del repository in uno specifico momento nel tempo.
 - **Merge**: Comando che serve a combinare più sequenze di commit in una cronologia unificata. Nei casi d’uso più frequenti, git merge viene utilizzato per combinare due branch.
-- **Push**: caricare le modifiche su GitHub.
+- **Push**: Caricare le modifiche su GitHub.
+- **Branch**: Una linea separata di sviluppo che deriva dal ramo principale (solitamente da "master" o "main") e consente di lavorare su nuove funzionalità o correzioni di bug senza influire direttamente sul ramo principale.
+- **Clone**: Creare una copia locale di un repository remoto sul proprio sistema.
+- **Rebase**: Un'operazione di Git che modifica la sequenza di commit per migliorare la pulizia della cronologia di sviluppo.
 
 # Testing e Debugging
 
@@ -49,6 +67,9 @@
 - **Debugging**: Processo di individuazione e risoluzione di errori o bug nel codice.
 - **Fix**: Correggere o risolvere un bug nel codice durante il processo di debugging.
 - **Debugger**: Software che serve ad individuare, analizzare e correggere bug.
+- **Breakpoint** (Punto di Interruzione): Un punto nel codice in cui l'esecuzione viene interrotta temporaneamente durante il debugging per esaminare lo stato del programma.
+- **Dynamic Analysis**: L'analisi del comportamento del programma durante l'esecuzione per identificare bug o inefficienze.
+- **Code Coverage**: Percentuale di codice sorgente coperta dai test.
 
 # Principi di Sviluppo
 
@@ -59,6 +80,9 @@
 - **Machine Learning**: Sottocampo dell’Intelligenza Artificiale che si concentra sulla creazione di modelli e algoritmi che permettono ai computer di apprendere dai dati e fare previsioni o prendere decisioni
 - **Lean**: Metodologia di sviluppo che mira a massimizzare il valore per il cliente eliminando gli sprechi attraverso l'ottimizzazione dei processi e il coinvolgimento attivo dei dipendenti.
 - **Design**: Tutto ciò che riguarda la struttura e l'aspetto grafico del sito.
+- **Continuous Integration (CI) e Continuous Deployment (CD)**: Metodologie che consentono di integrare regolarmente i cambiamenti nel codice e distribuire il software in modo rapido e sicuro.
+- **DRY (Don't Repeat Yourself)**: Evitare la duplicazione del codice attraverso l'uso di astrazioni e modularità.
+- **KISS** (Keep It Simple, Stupid): Un principio di progettazione che suggerisce di mantenere le cose il più semplici possibile per evitare complessità inutile.
 
 # Sicurezza
 
@@ -68,6 +92,11 @@
 - **Penetration Testing**: Attività mirata a testare la sicurezza di un sistema simulando attacchi reali per identificare vulnerabilità.
 - **SQL Injection**: È un tipo di attacco che inietta del codice malevolo all’interno di un database, solitamente sfruttando una vulnerabilità del software.
 - **Hacker**: Colui che viola siti e applicazioni web (conosciuto anche come pirata informatico).
+- **Phishing**: Un tentativo di frode in cui gli aggressori cercano di ottenere informazioni sensibili, come password o dati finanziari, fingendosi entità affidabili.
+- ISO 27001: Standard internazionale per la gestione della sicurezza delle informazioni.
+- **Vulnerabilità**: Debolezza nel sistema o software che può essere sfruttata da attaccanti per compromettere la sicurezza.
+- **DMZ (Demilitarized Zone)**: Una rete intermedia tra la rete interna e quella esterna, spesso utilizzata per ospitare servizi pubblici.
+- **SonarQube**: SonarQube è un'applicazione open source per la gestione della qualità del codice. Offre una varietà di funzionalità per la sicurezza del codice, tra cui analisi statica, test di vulnerabilità e monitoraggio della sicurezza.
 
 # Performance e Ottimizzazione
 
@@ -77,13 +106,20 @@
 - **Parallelismo**: Esecuzione effettiva di più attività allo stesso momento, generalmente distribuite tra diverse risorse di elaborazione.
 - **Riduzione delle richieste di rete**: Ridurre il numero di richieste di rete necessarie per caricare una pagina può accelerare significativamente il tempo di caricamento. Ciò può essere ottenuto, ad esempio, riducendo il numero di file CSS e JavaScript o combinandoli in un unico file.
 - **Problem Solving**: Capacità di risoluzione problemi in modo efficace ed efficiente.
-- **Supporto browser**: Accertarsi che l'applicazione web che si sta progettando sia compatibile con tutti, o comunque con la maggior parte, dei siti web.
+- **Supporto browser**: Accertarsi che l'applicazione web che si sta progettando sia compatibile con tutti (o comunque con la maggior parte) dei browser.
+- **Throughput**: La quantità di lavoro completato in un determinato intervallo di tempo.
+- **Benchmarking**: Confronto delle prestazioni del sistema o del codice rispetto a un punto di riferimento o a una serie di standard.
+- **Load Balancing**: Distribuzione del traffico tra più server per migliorare la capacità di gestione delle richieste e garantire alta disponibilità.
 
 # Cloud Computing
 
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
 - **Provider Cloud**: Servizi come AWS, Azure, Google Cloud che offrono risorse di computing su internet.
 - **Intelligenza artificiale**: Capacità di un sistema informatico di imitare l'intelligenza umana.
+- **Public Cloud**: Un'infrastruttura cloud accessibile a qualsiasi utente tramite Internet e gestita da un provider di servizi cloud.
+- **Identity and Access Management (IAM)**: Gestione delle identità e dei privilegi di accesso per controllare chi ha accesso a quali risorse.
+- **Scalabilità automatica**:indica la capacità di adattare dinamicamente le risorse in risposta alla domanda, garantendo efficienza ed elasticità.
+- **Serverless Computing**: Un modello di cloud computing in cui il provider gestisce dinamicamente le risorse, addebitando solo per l'esecuzione effettiva di codice (es. "AWS Lambda").
 
 # Hardware Virtualization
 
@@ -92,3 +128,6 @@
 - **OS Level Virtualization**: usato per esempio da docker, l'Host permette instanze multiple di virtualizzazione, chiamate "containers", che hanno accesso a determinati set di risorse sia per motivi di sicurezza, sia per motivi di perfomance. Questo comporta minor "overhead", ma sia Host che Guest devono girare sullo stesso OS.
 - **AI tools**: Saper usare e capire come usare le AI per scrivere,migliorare e capire il codice.
 - **Emulation**: Con l’emulazione l’hypervisor simula l’intero hardware set che permette al sistema operativo guest di essere eseguito senza alcune modifiche.
+- **Hypervisor**: Software che consente la creazione e la gestione di macchine virtuali (VM) su un server fisico, consentendo l'esecuzione di più sistemi operativi su una singola macchina.
+- **Host OS (Host Operating System)**: Sistema operativo che esegue direttamente sull'hardware fisico e ospita l'ipervisore.
+- **Hypervisor**: Un software che consente l'esecuzione di macchine virtuali su un sistema host, gestendo l'accesso alle risorse hardware.

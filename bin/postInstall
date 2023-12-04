@@ -1,0 +1,24 @@
+#!/usr/bin/env node
+/**
+ * Do all things that need to be done after installing packages with npm.
+ *
+ * Yes, it slows down package installation a little, but it's nice to not
+ * have to remember these extra steps.
+ *
+ * @format
+ */
+run('husky install');
+
+// Run baby run
+function run(command) {
+  // eslint-disable-next-line no-console
+  console.log(`./bin/postInstall script running: ${command}`);
+
+  try {
+    require('child_process').execSync(command, { stdio: 'inherit' });
+  } catch (error) {
+    // eslint-disable-next-line no-console
+    console.error(`./bin/postInstall failed on command:\n${command}`);
+    process.exit(error.status);
+  }
+}
