@@ -12,8 +12,8 @@
 - **Fasi della programmazione**: I passi con cui si sviluppa un programma. Le prime fasi sono strettamente legate alla logica di quello che si va a creare e del suo funzionamento, mentre le ultime sono orientate verso lo specifico linguaggio di programmazione che si intende utilizzare.
 - **Variabili**: Contenitori dati flessibili che cambiano valore nel programma e consentono la manipolazione dinamica delle informazioni.
 - **Metodo Agile**: Una metodologia di sviluppo del software che promuove la collaborazione e il cambiamento flessibile (es. "Scrum", "Kanban").
-- **Funzione**:Una funzione è costrutto sintattico di un determinato linguaggio di programmazione che permette di raggruppare, all'interno di un programma, una sequenza di istruzioni in un unico blocco,complementando così una specifica operazione o azione in modo tale che, a partire da determinati input, restituisca determinati output.
-- **Chiamata di funzione**:Possibilità di richiamare una funzione in più parti del programma senza dover riscrivere tutto il codice
+- **Funzione**: Una funzione è costrutto sintattico di un determinato linguaggio di programmazione che permette di raggruppare, all'interno di un programma, una sequenza di istruzioni in un unico blocco,complementando così una specifica operazione o azione in modo tale che, a partire da determinati input, restituisca determinati output.
+- **Chiamata di funzione**: Possibilità di richiamare una funzione in più parti del programma senza dover riscrivere tutto il codice
 
 # Sviluppo Web
 
