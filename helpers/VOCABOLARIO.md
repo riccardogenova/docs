@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # Tutte le parole chiave per fare bella figura nel mondo IT
 
 - **Algoritmo**: Una serie di istruzioni step-by-step per eseguire un compito specifico.
@@ -38,7 +40,7 @@
 - **RDBMS (Relational Database Management System)**: Un tipo di DBMS che organizza i dati in tabelle relazionali e utilizza il linguaggio SQL per interrogare e manipolare i dati.
 - **Indice**: Indica una struttura di dati che migliora l'efficienza delle query, accelerando la ricerca e il recupero delle informazioni all'interno di un database.
 - **Indexing**: Il processo di creazione di indici per migliorare le prestazioni delle query database.
-- **Normalizzazione**: Processo di organizzazione e progettazione di una struttura dati in modo efficiente, riducendo la ridondanza delle informazioni e migliorando la coerenza dei dati. 
+- **Normalizzazione**: Processo di organizzazione e progettazione di una struttura dati in modo efficiente, riducendo la ridondanza delle informazioni e migliorando la coerenza dei dati.
 
 # Controllo Versione
 
@@ -66,6 +68,7 @@
 # Principi di Sviluppo
 
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
+- **Scrum**: Framework di sviluppo _Agile_ che si concentra sulla gestione di progetti complessi. Nell'approccio Scrum, il lavoro è organizzato in cicli chiamati "sprint" di lunghezza fissa (solitamente 2-4 settimane). Durante uno sprint, il team si impegna a consegnare un incremento di prodotto funzionante. Scrum include ruoli chiave come il Product Owner, lo Scrum Master e il Development Team, oltre a eventi regolari come la Sprint Planning, la Daily Scrum, la Sprint Review e la Sprint Retrospective.
 - **Waterfall**: La metodologia waterfall prevede una gestione sequenziale dei progetti, suddivisa in fasi distinte.
 - **DevOps**: Pratica che punta all'unificazione dello sviluppo software (Dev) e delle operazioni IT (Ops).
 - **Clean Code**: La scrittura di codice leggibile, manutenibile e comprensibile, seguendo principi come la chiarezza e la modularità.
