@@ -119,3 +119,6 @@
 - **Hypervisor**: Software che consente la creazione e la gestione di macchine virtuali (VM) su un server fisico, consentendo l'esecuzione di più sistemi operativi su una singola macchina.
 - **Host OS (Host Operating System)**: Sistema operativo che esegue direttamente sull'hardware fisico e ospita l'ipervisore.
 - **Hypervisor**: Un software che consente l'esecuzione di macchine virtuali su un sistema host, gestendo l'accesso alle risorse hardware.
+- **VM**: Virtual Machine, cioe: 
+  - Guest OS: Ciascuna VM può eseguire un sistema operativo guest indipendente.
+  - Abstraction Layer: Fornisce un'astrazione dell'hardware sottostante, consentendo a ogni VM di funzionare come se avesse accesso a una macchina fisica dedicata.
