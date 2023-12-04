@@ -119,4 +119,5 @@
 - **AI tools**: Saper usare e capire come usare le AI per scrivere,migliorare e capire il codice.
 - **Hypervisor**: Software che consente la creazione e la gestione di macchine virtuali (VM) su un server fisico, consentendo l'esecuzione di più sistemi operativi su una singola macchina.
 - **Host OS (Host Operating System)**: Sistema operativo che esegue direttamente sull'hardware fisico e ospita l'ipervisore.
-- **Hypervisor**: Un software che consente l'esecuzione di macchine virtuali su un sistema host, gestendo l'accesso alle risorse hardware.
+- **Paravirtualizzazione**: Una tecnica di virtualizzazione in cui il sistema operativo guest è consapevole della sua natura virtualizzata e collabora con l'host per migliorare le prestazioni e l'efficienza.
+- **Virtualizzazione Bare Metal**: Si riferisce alla virtualizzazione eseguita direttamente sull'hardware senza dover passare attraverso un sistema operativo ospite.
