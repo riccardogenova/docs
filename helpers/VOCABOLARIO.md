@@ -12,6 +12,7 @@
 - **Fasi della programmazione**: I passi con cui si sviluppa un programma. Le prime fasi sono strettamente legate alla logica di quello che si va a creare e del suo funzionamento, mentre le ultime sono orientate verso lo specifico linguaggio di programmazione che si intende utilizzare.
 - **Variabili**: Contenitori dati flessibili che cambiano valore nel programma e consentono la manipolazione dinamica delle informazioni.
 - **Metodo Agile**: Una metodologia di sviluppo del software che promuove la collaborazione e il cambiamento flessibile (es. "Scrum", "Kanban").
+- **Machine Learning**: Un campo dell'intelligenza artificiale che si concentra sulla creazione di algoritmi e modelli in grado di apprendere dai dati. Tra le sue sotto-discipline, il Deep Learning si occupa di reti neurali profonde per comprendere e rappresentare informazioni complesse, mentre il Reinforcement Learning si basa su agenti che apprendono a compiere azioni in un ambiente dinamico, guidati dalla massimizzazione di un segnale di ricompensa.
 
 # Sviluppo Web
 
@@ -117,4 +118,3 @@
 - **AI tools**: Saper usare e capire come usare le AI per scrivere,migliorare e capire il codice.
 - **Hypervisor**: Software che consente la creazione e la gestione di macchine virtuali (VM) su un server fisico, consentendo l'esecuzione di più sistemi operativi su una singola macchina.
 - **Host OS (Host Operating System)**: Sistema operativo che esegue direttamente sull'hardware fisico e ospita l'ipervisore.
-- **Hypervisor**: Un software che consente l'esecuzione di macchine virtuali su un sistema host, gestendo l'accesso alle risorse hardware.
