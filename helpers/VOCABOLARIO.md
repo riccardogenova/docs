@@ -12,6 +12,8 @@
 - **Fasi della programmazione**: I passi con cui si sviluppa un programma. Le prime fasi sono strettamente legate alla logica di quello che si va a creare e del suo funzionamento, mentre le ultime sono orientate verso lo specifico linguaggio di programmazione che si intende utilizzare.
 - **Variabili**: Contenitori dati flessibili che cambiano valore nel programma e consentono la manipolazione dinamica delle informazioni.
 - **Metodo Agile**: Una metodologia di sviluppo del software che promuove la collaborazione e il cambiamento flessibile (es. "Scrum", "Kanban").
+-**Funzione**:Una funzione è costrutto sintattico di un determinato linguaggio di programmazione che permette di raggruppare, all'interno di un programma, una sequenza di istruzioni in un unico blocco, espletando così una specifica e più complessa operazione o azione sui dati del programma stesso in modo tale che, a partire da determinati input, restituisca determinati output.
+-**Chiamata di funzione**:Possibilità di richiamare una funzione in più parti del programma senza dover riscrivere tutto il codice
 
 # Sviluppo Web
 
@@ -62,6 +64,7 @@
 - **Breakpoint** (Punto di Interruzione): Un punto nel codice in cui l'esecuzione viene interrotta temporaneamente durante il debugging per esaminare lo stato del programma.
 - **Dynamic Analysis**: L'analisi del comportamento del programma durante l'esecuzione per identificare bug o inefficienze.
 - **Code Coverage**: Percentuale di codice sorgente coperta dai test.
+
 
 # Principi di Sviluppo
 
