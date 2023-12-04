@@ -74,6 +74,7 @@
 - **Continuous Integration (CI) e Continuous Deployment (CD)**: Metodologie che consentono di integrare regolarmente i cambiamenti nel codice e distribuire il software in modo rapido e sicuro.
 - **DRY (Don't Repeat Yourself)**: Evitare la duplicazione del codice attraverso l'uso di astrazioni e modularità.
 - **KISS** (Keep It Simple, Stupid): Un principio di progettazione che suggerisce di mantenere le cose il più semplici possibile per evitare complessità inutile.
+- **sprint**: Si riferisce a un periodo di tempo definito, di solito breve, durante il quale un team si impegna a completare un insieme specifico di attività o compiti.
 
 # Sicurezza
 
