@@ -11,7 +11,7 @@
 - **Array**: Una struttura dati che contiene una collezione di elementi dello stesso tipo, organizzati in un insieme ordinato.
 - **Fasi della programmazione**: I passi con cui si sviluppa un programma. Le prime fasi sono strettamente legate alla logica di quello che si va a creare e del suo funzionamento, mentre le ultime sono orientate verso lo specifico linguaggio di programmazione che si intende utilizzare.
 - **Variabili**: Contenitori dati flessibili che cambiano valore nel programma e consentono la manipolazione dinamica delle informazioni.
--## Metodo Agile: Un Approccio Dinamico allo Sviluppo Software
+- ## Metodo Agile: Un Approccio Dinamico allo Sviluppo Software
 
 **Definizione Completa:**
 Il *Metodo Agile* è una metodologia di sviluppo del software che abbraccia i principi della flessibilità, collaborazione e risposta rapida ai cambiamenti. Fondato su valori espressi nel **Manifesto Agile**, questo approccio sfida le tradizionali pratiche di sviluppo software, privilegiando la risposta alle esigenze mutevoli del cliente e la creazione di software funzionante in brevi iterazioni.
@@ -49,7 +49,7 @@ Il *Metodo Agile* è una metodologia di sviluppo del software che abbraccia i pr
 
 
 # Sviluppo Web
-
+Per  **Sviluppo Web** è il processo di creazione di applicazioni o siti web per l'utilizzo su Internet o su una rete privata. Coinvolge l'uso di linguaggi di markup come *HTML*, fogli di stile come *CSS* e linguaggi di scripting come *JavaScript* per creare pagine web interattive e dinamiche.
 - **HTML/CSS/JavaScript**: Tecnologie di base per lo sviluppo web; HTML per la struttura, CSS per lo stile, e JavaScript per la funzionalità.
 - **Front-End**: Parte dell'applicazione web con cui l'utente interagisce direttamente.
 - **Back-End**: Parte dell'applicazione responsabile per la gestione dei dati, logica del server, e autenticazione.
@@ -65,6 +65,7 @@ Il *Metodo Agile* è una metodologia di sviluppo del software che abbraccia i pr
 - **SEO (Search Engine Optimization)**: Implementazione di strategie per migliorare la visibilità dei contenuti web sui motori di ricerca, migliorando il posizionamento organico nelle ricerche.
 
 # Database
+Un **Database** è un sistema organizzato per la raccolta, la gestione e l'aggiornamento di dati. Utilizza strutture dati specifiche e un linguaggio di interrogazione per consentire agli utenti di archiviare, organizzare e recuperare informazioni in modo efficiente.
 
 - **SQL (Structured Query Language)**: Linguaggio standard per gestire i database relazionali.
 - **NoSQL**: Database non relazionali, utilizzati per la grande scalabilità e la flessibilità nell'organizzazione dei dati.
@@ -136,6 +137,7 @@ Il *Metodo Agile* è una metodologia di sviluppo del software che abbraccia i pr
 - **Load Balancing**: Distribuzione del traffico tra più server per migliorare la capacità di gestione delle richieste e garantire alta disponibilità.
 
 # Cloud Computing
+Il **Cloud Computing** è un modello di erogazione di servizi informatici che offre accesso a risorse come server, archiviazione, database, reti e software tramite Internet ("il cloud"). Questo modello consente di accedere e utilizzare risorse informatiche in modo flessibile e scalabile, in genere pagando solo per le risorse effettivamente utilizzate.
 
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
 - **Provider Cloud**: Servizi come AWS, Azure, Google Cloud che offrono risorse di computing su internet.
@@ -145,6 +147,7 @@ Il *Metodo Agile* è una metodologia di sviluppo del software che abbraccia i pr
 - **Serverless Computing**: Un modello di cloud computing in cui il provider gestisce dinamicamente le risorse, addebitando solo per l'esecuzione effettiva di codice (es. "AWS Lambda").
 
 # Hardware Virtualization
+La **Virtualizzazione dell'hardware** è la creazione di macchine virtuali (VM) o ambienti di sistema operativo virtuali su un singolo server fisico. Questa tecnologia consente a un singolo hardware di ospitare più ambienti operativi separati, migliorando l'efficienza, la flessibilità e la gestione delle risorse hardware. Esistono diversi approcci alla virtualizzazione dell'hardware, come la virtualizzazione completa, la paravirtualizzazione e la virtualizzazione a livello di sistema operativo.
 
 - **Full Virtualization**: tutto dall'Host viene "Virtualizzato", usualmente risultando in performance peggiori.
 - **Paravirtualization**: Host e Guest comunicano tra di loro attraverso APIs specifiche, risultando in performance migliori. L'host dovrà comunque offrire supporto kernel.
