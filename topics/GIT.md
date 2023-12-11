@@ -13,6 +13,7 @@ In Git, un progetto è contenuto in un *repository*, che tiene traccia di tutte 
 - **Commit**: Un "commit" è un insieme di modifiche salvate. Ogni commit ha un identificativo unico (un hash SHA-1) e include informazioni sull'autore delle modifiche, una descrizione delle modifiche e un timestamp.
 - **Branch**: I rami (branch) sono usati per sviluppare funzionalità isolate l'una dall'altra. Il ramo principale di solito si chiama "master" o "main".
 - **Merge**: Quando una funzionalità è completa, può essere "mergiata" (fusa) nel ramo principale.
+- **Versione**: La versione di un software corrisponde a un determinato stato nello sviluppo di un software. I sistemi di versioning quali GIT si occupano di gestire la loro definizione, e di registrarne la storia.   
 
 ## Vantaggi
 
