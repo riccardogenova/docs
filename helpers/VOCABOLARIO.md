@@ -70,6 +70,7 @@
 # Principi di Sviluppo
 
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
+- **Scrum**: Framework di sviluppo _Agile_ che si concentra sulla gestione di progetti complessi. Nell'approccio Scrum, il lavoro è organizzato in cicli chiamati "sprint" di lunghezza fissa (solitamente 2-4 settimane). Durante uno sprint, il team si impegna a consegnare un incremento di prodotto funzionante. Scrum include ruoli chiave come il Product Owner, lo Scrum Master e il Development Team, oltre a eventi regolari come la Sprint Planning, la Daily Scrum, la Sprint Review e la Sprint Retrospective.
 - **Waterfall**: La metodologia waterfall prevede una gestione sequenziale dei progetti, suddivisa in fasi distinte.
 - **DevOps**: Pratica che punta all'unificazione dello sviluppo software (Dev) e delle operazioni IT (Ops).
 - **Clean Code**: La scrittura di codice leggibile, manutenibile e comprensibile, seguendo principi come la chiarezza e la modularità.
