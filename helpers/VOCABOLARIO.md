@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # Tutte le parole chiave per fare bella figura nel mondo IT
 
 - **Algoritmo**: Una serie di istruzioni step-by-step per eseguire un compito specifico.
@@ -76,6 +78,7 @@
 - **Continuous Integration (CI) e Continuous Deployment (CD)**: Metodologie che consentono di integrare regolarmente i cambiamenti nel codice e distribuire il software in modo rapido e sicuro.
 - **DRY (Don't Repeat Yourself)**: Evitare la duplicazione del codice attraverso l'uso di astrazioni e modularità.
 - **KISS** (Keep It Simple, Stupid): Un principio di progettazione che suggerisce di mantenere le cose il più semplici possibile per evitare complessità inutile.
+- **YAGNI** (You Aren't Gonna Need It): Principio che suggerisce di non implementare funzionalità fino a quando non sono effettivamente necessarie e di evitare di aggiungere codice superfluo basato su ipotesi future.
 
 # Sicurezza
 
@@ -121,3 +124,4 @@
 - **Hypervisor**: Software che consente la creazione e la gestione di macchine virtuali (VM) su un server fisico, consentendo l'esecuzione di più sistemi operativi su una singola macchina.
 - **Host OS (Host Operating System)**: Sistema operativo che esegue direttamente sull'hardware fisico e ospita l'ipervisore.
 - **Hypervisor**: Un software che consente l'esecuzione di macchine virtuali su un sistema host, gestendo l'accesso alle risorse hardware.
+- **Nested Virtualization** : Capacità di eseguire una macchina virtuale all'interno di un'altra, consentendo la virtualizzazione all'interno di un ambiente già virtualizzato.
