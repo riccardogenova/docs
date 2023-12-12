@@ -47,7 +47,7 @@
 # Controllo Versione
 
 - **Git**: Sistema di controllo versione per tracciare i cambiamenti nel codice sorgente.
-- **Repository**: Raccolta di codice sorgente, documentazione, file di configurazione, ecc.
+- **Repository**: Raccolta di codice sorgente, documentazione, file di configurazione, ecc. A.K.A. *repo*.
 - **Fork**: Copia di un repository che ci permette di sperimentare qualsiasi cambiamento vogliamo senza modificare il progetto principale.
 - **Pull Request**: Una richiesta per integrare le modifiche apportate in un branch in un altro, spesso utilizzato in collaborazione con altri sviluppatori.
 - **GitHub**: Un servizio di hosting per progetti software, implementazione dello strumento di Git.
