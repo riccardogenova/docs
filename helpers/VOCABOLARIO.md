@@ -63,7 +63,8 @@
 - **Breakpoint** (Punto di Interruzione): Un punto nel codice in cui l'esecuzione viene interrotta temporaneamente durante il debugging per esaminare lo stato del programma.
 - **Dynamic Analysis**: L'analisi del comportamento del programma durante l'esecuzione per identificare bug o inefficienze.
 - **Code Coverage**: Percentuale di codice sorgente coperta dai test.
-
+- **Test Driven Development (TDD)**: Un approccio di sviluppo software in cui si scrivono prima i test e poi il codice per soddisfare quei test.
+- **Exception Handling**: Gestione delle eccezioni o degli errori che si verificano durante l'esecuzione del programma, per garantire un comportamento controllato in caso di anomalie.
 # Principi di Sviluppo
 
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
