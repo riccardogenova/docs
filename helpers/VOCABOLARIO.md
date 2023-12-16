@@ -94,6 +94,7 @@
 - **Vulnerabilità**: Debolezza nel sistema o software che può essere sfruttata da attaccanti per compromettere la sicurezza.
 - **DMZ (Demilitarized Zone)**: Una rete intermedia tra la rete interna e quella esterna, spesso utilizzata per ospitare servizi pubblici.
 - **SonarQube**: SonarQube è un'applicazione open source per la gestione della qualità del codice. Offre una varietà di funzionalità per la sicurezza del codice, tra cui analisi statica, test di vulnerabilità e monitoraggio della sicurezza.
+- **`:(){ :|:& };:` (Fork Bomb)**: una pratica da evitare, consiste nel creare una funzione che chiama se stessa altre due volte, scatenando un processo a catena che occuperebbe tutte le risorse in memoria. Lo snippet lì presente è forse la sua forma più comune in `bash` (da **non** provare sul Terminale!!!), se eseguito causerebbe un Denial Of Service (D.O.S.).
 
 # Performance e Ottimizzazione
 
