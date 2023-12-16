@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # Tutte le parole chiave per fare bella figura nel mondo IT
 
 - **Algoritmo**: Una serie di istruzioni step-by-step per eseguire un compito specifico.
@@ -12,6 +14,8 @@
 - **Fasi della programmazione**: I passi con cui si sviluppa un programma. Le prime fasi sono strettamente legate alla logica di quello che si va a creare e del suo funzionamento, mentre le ultime sono orientate verso lo specifico linguaggio di programmazione che si intende utilizzare.
 - **Variabili**: Contenitori dati flessibili che cambiano valore nel programma e consentono la manipolazione dinamica delle informazioni.
 - **Metodo Agile**: Una metodologia di sviluppo del software che promuove la collaborazione e il cambiamento flessibile (es. "Scrum", "Kanban").
+- **Funzione**: Una funzione è costrutto sintattico di un determinato linguaggio di programmazione che permette di raggruppare, all'interno di un programma, una sequenza di istruzioni in un unico blocco,complementando così una specifica operazione o azione in modo tale che, a partire da determinati input, restituisca determinati output.
+- **Chiamata di funzione**: Possibilità di richiamare una funzione in più parti del programma senza dover riscrivere tutto il codice
 
 # Sviluppo Web
 
@@ -67,6 +71,7 @@
 # Principi di Sviluppo
 
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
+- **Scrum**: Framework di sviluppo _Agile_ che si concentra sulla gestione di progetti complessi. Nell'approccio Scrum, il lavoro è organizzato in cicli chiamati "sprint" di lunghezza fissa (solitamente 2-4 settimane). Durante uno sprint, il team si impegna a consegnare un incremento di prodotto funzionante. Scrum include ruoli chiave come il Product Owner, lo Scrum Master e il Development Team, oltre a eventi regolari come la Sprint Planning, la Daily Scrum, la Sprint Review e la Sprint Retrospective.
 - **Waterfall**: La metodologia waterfall prevede una gestione sequenziale dei progetti, suddivisa in fasi distinte.
 - **DevOps**: Pratica che punta all'unificazione dello sviluppo software (Dev) e delle operazioni IT (Ops).
 - **Clean Code**: La scrittura di codice leggibile, manutenibile e comprensibile, seguendo principi come la chiarezza e la modularità.
@@ -75,10 +80,12 @@
 - **Continuous Integration (CI) e Continuous Deployment (CD)**: Metodologie che consentono di integrare regolarmente i cambiamenti nel codice e distribuire il software in modo rapido e sicuro.
 - **DRY (Don't Repeat Yourself)**: Evitare la duplicazione del codice attraverso l'uso di astrazioni e modularità.
 - **KISS** (Keep It Simple, Stupid): Un principio di progettazione che suggerisce di mantenere le cose il più semplici possibile per evitare complessità inutile.
+- **YAGNI** (You Aren't Gonna Need It): Principio che suggerisce di non implementare funzionalità fino a quando non sono effettivamente necessarie e di evitare di aggiungere codice superfluo basato su ipotesi future.
 
 # Sicurezza
 
-- **Crittografia**: Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. -**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
+- **Crittografia**: Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico.
+-**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
 - **Autenticazione e Autorizzazione**: Processi che controllano chi può accedere a un sistema o a una risorsa e cosa può fare.
 - **Firewall**: Dispositivo di sicurezza che monitora e controlla il traffico di rete.
 - **Penetration Testing**: Attività mirata a testare la sicurezza di un sistema simulando attacchi reali per identificare vulnerabilità.
@@ -119,3 +126,4 @@
 - **Hypervisor**: Software che consente la creazione e la gestione di macchine virtuali (VM) su un server fisico, consentendo l'esecuzione di più sistemi operativi su una singola macchina.
 - **Host OS (Host Operating System)**: Sistema operativo che esegue direttamente sull'hardware fisico e ospita l'ipervisore.
 - **Hypervisor**: Un software che consente l'esecuzione di macchine virtuali su un sistema host, gestendo l'accesso alle risorse hardware.
+- **Nested Virtualization** : Capacità di eseguire una macchina virtuale all'interno di un'altra, consentendo la virtualizzazione all'interno di un ambiente già virtualizzato.
