@@ -78,7 +78,7 @@
 - **Lean**: Metodologia di sviluppo che mira a massimizzare il valore per il cliente eliminando gli sprechi attraverso l'ottimizzazione dei processi e il coinvolgimento attivo dei dipendenti.
 - **Continuous Integration (CI) e Continuous Deployment (CD)**: Metodologie che consentono di integrare regolarmente i cambiamenti nel codice e distribuire il software in modo rapido e sicuro.
 - **DRY (Don't Repeat Yourself)**: Evitare la duplicazione del codice attraverso l'uso di astrazioni e modularità.
-- **KISS** (Keep It Simple, Stupid): Un principio di progettazione che suggerisce di mantenere le cose il più semplici possibile per evitare complessità inutile.
+- **KISS (Keep It Simple, Stupid)**: Un principio di progettazione che suggerisce di mantenere le cose il più semplici possibile per evitare complessità inutile.
 - **WET  (We Enjoy Typing)** (o anche Write Everything Twice / Waste Everyone's Time) contrapposta al principio DRY, è la pratica di riscrivere la stessa logica o codice in modi diversi, rende difficile la gestione e la modifica del codice in tutti i luoghi in cui è stato scritto.
 - **YAGNI** (You Aren't Gonna Need It): Principio che suggerisce di non implementare funzionalità fino a quando non sono effettivamente necessarie e di evitare di aggiungere codice superfluo basato su ipotesi future.
 
