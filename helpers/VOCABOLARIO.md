@@ -16,6 +16,8 @@
 - **Metodo Agile**: Una metodologia di sviluppo del software che promuove la collaborazione e il cambiamento flessibile (es. "Scrum", "Kanban").
 - **Funzione**: Una funzione è costrutto sintattico di un determinato linguaggio di programmazione che permette di raggruppare, all'interno di un programma, una sequenza di istruzioni in un unico blocco,complementando così una specifica operazione o azione in modo tale che, a partire da determinati input, restituisca determinati output.
 - **Chiamata di funzione**: Possibilità di richiamare una funzione in più parti del programma senza dover riscrivere tutto il codice
+- **Commento**: Lasciare nel codice una nota personale, una spiegazione sintetica ma esplicativa di qualche passaggio meno chiaro a colpo d'occhio.
+- **Documentazione**: Testo lasciato da noi sviluppatori durante un progetto in team, o dalla casa di rilascio per un programma/una libreria, per spiegare nel dettaglio come meglio adoperare funzioni, classi, metodi o moduli del programma/della libreria. A.K.A. salvavita dei programmatori!
 
 # Sviluppo Web
 
