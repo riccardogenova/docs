@@ -34,6 +34,7 @@
 - **Web Browsers e Developer Tools**: Conoscenza dei principali browser web e delle relative strumenti di sviluppo per il debug e il testing.
 - **GraphQL**: Linguaggio di query per le API, offrendo una maggiore flessibilità rispetto alle richieste tradizionali basate su REST.
 - **SEO (Search Engine Optimization)**: Implementazione di strategie per migliorare la visibilità dei contenuti web sui motori di ricerca, migliorando il posizionamento organico nelle ricerche.
+- **Architettura Client/Server**: O semplicemente Client-Server, indica un'architettura di rete nella quale genericamente un computer client o terminale si connette ad un server per usare un servizio come condividere risorse hardware/software con altri client, appoggiandosi alla sottostante architettura protocollare.
 
 # Database
 
