@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Tutte le parole chiave per fare bella figura nel mondo IT
+## Tutte le parole chiave per fare bella figura nel mondo IT
 
 - **Algoritmo**: Una serie di istruzioni step-by-step per eseguire un compito specifico.
 - **Struttura Dati**: Modi di organizzare i dati per un accesso e una manipolazione efficienti (es. array, lista, coda, pila, albero, grafico).
@@ -19,7 +19,7 @@
 - **Commento**: Lasciare nel codice una nota personale, una spiegazione sintetica ma esplicativa di qualche passaggio meno chiaro a colpo d'occhio.
 - **Documentazione**: Testo lasciato da noi sviluppatori durante un progetto in team, o dalla casa di rilascio per un programma/una libreria, per spiegare nel dettaglio come meglio adoperare funzioni, classi, metodi o moduli del programma/della libreria. A.K.A. salvavita dei programmatori!
 
-# Sviluppo Web
+## Sviluppo Web
 
 - **HTML/CSS/JavaScript**: Tecnologie di base per lo sviluppo web; HTML per la struttura, CSS per lo stile, e JavaScript per la funzionalità.
 - **Front-End**: Parte dell'applicazione web con cui l'utente interagisce direttamente.
@@ -35,7 +35,7 @@
 - **GraphQL**: Linguaggio di query per le API, offrendo una maggiore flessibilità rispetto alle richieste tradizionali basate su REST.
 - **SEO (Search Engine Optimization)**: Implementazione di strategie per migliorare la visibilità dei contenuti web sui motori di ricerca, migliorando il posizionamento organico nelle ricerche.
 
-# Database
+## Database
 
 - **SQL (Structured Query Language)**: Linguaggio standard per gestire i database relazionali.
 - **NoSQL**: Database non relazionali, utilizzati per la grande scalabilità e la flessibilità nell'organizzazione dei dati.
@@ -46,7 +46,7 @@
 - **Indexing**: Il processo di creazione di indici per migliorare le prestazioni delle query database.
 - **Normalizzazione**: Processo di organizzazione e progettazione di una struttura dati in modo efficiente, riducendo la ridondanza delle informazioni e migliorando la coerenza dei dati.
 
-# Controllo Versione
+## Controllo Versione
 
 - **Git**: Sistema di controllo versione per tracciare i cambiamenti nel codice sorgente.
 - **Repository**: Raccolta di codice sorgente, documentazione, file di configurazione, ecc. A.K.A. *repo*.
@@ -59,7 +59,7 @@
 - **Clone**: Creare una copia locale di un repository remoto sul proprio sistema.
 - **Rebase**: Un'operazione di Git che modifica la sequenza di commit per migliorare la pulizia della cronologia di sviluppo.
 
-# Testing e Debugging
+## Testing e Debugging
 
 - **Unit Testing**: Test di singole parti (unità) di codice.
 - **Integration Testing**: Test su come diverse parti del sistema lavorano insieme.
@@ -69,7 +69,7 @@
 - **Dynamic Analysis**: L'analisi del comportamento del programma durante l'esecuzione per identificare bug o inefficienze.
 - **Code Coverage**: Percentuale di codice sorgente coperta dai test.
 
-# Principi di Sviluppo
+## Principi di Sviluppo
 
 - **Agile**: Metodologia di sviluppo software che enfatizza la consegna incrementale, collaborazione, adattabilità, e riflessione continua.
 - **Scrum**: Framework di sviluppo _Agile_ che si concentra sulla gestione di progetti complessi. Nell'approccio Scrum, il lavoro è organizzato in cicli chiamati "sprint" di lunghezza fissa (solitamente 2-4 settimane). Durante uno sprint, il team si impegna a consegnare un incremento di prodotto funzionante. Scrum include ruoli chiave come il Product Owner, lo Scrum Master e il Development Team, oltre a eventi regolari come la Sprint Planning, la Daily Scrum, la Sprint Review e la Sprint Retrospective.
@@ -84,7 +84,7 @@
 - **WET  (We Enjoy Typing)** (o anche Write Everything Twice / Waste Everyone's Time) contrapposta al principio DRY, è la pratica di riscrivere la stessa logica o codice in modi diversi, rende difficile la gestione e la modifica del codice in tutti i luoghi in cui è stato scritto.
 - **YAGNI** (You Aren't Gonna Need It): Principio che suggerisce di non implementare funzionalità fino a quando non sono effettivamente necessarie e di evitare di aggiungere codice superfluo basato su ipotesi future.
 
-# Sicurezza
+## Sicurezza
 
 - **Crittografia**: Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico.
 -**Cybersecurity**: Insieme di tecnologie, processi e misure di protezione progettate per ridurre il rischio di attacchi informatici.
@@ -99,7 +99,7 @@
 - **SonarQube**: SonarQube è un'applicazione open source per la gestione della qualità del codice. Offre una varietà di funzionalità per la sicurezza del codice, tra cui analisi statica, test di vulnerabilità e monitoraggio della sicurezza.
 - **`:(){ :|:& };:` (Fork Bomb)**: una pratica da evitare, consiste nel creare una funzione che chiama se stessa altre due volte, scatenando un processo a catena che occuperebbe tutte le risorse in memoria. Lo snippet lì presente è forse la sua forma più comune in `bash` (da **non** provare sul Terminale!!!), se eseguito causerebbe un Denial Of Service (D.O.S.).
 
-# Performance e Ottimizzazione
+## Performance e Ottimizzazione
 
 - **Scalabilità**: Capacità di un sistema di gestire un crescente numero di richieste.
 - **Ottimizzazione**: Migliorare l'efficienza del codice o delle risorse del sistema.
@@ -111,7 +111,7 @@
 - **Benchmarking**: Confronto delle prestazioni del sistema o del codice rispetto a un punto di riferimento o a una serie di standard.
 - **Load Balancing**: Distribuzione del traffico tra più server per migliorare la capacità di gestione delle richieste e garantire alta disponibilità.
 
-# Cloud Computing
+## Cloud Computing
 
 - **IAAS, PAAS, SAAS**: Diversi livelli di servizi cloud (Infrastruttura, Piattaforma, Software come Servizio).
 - **Provider Cloud**: Servizi come AWS, Azure, Google Cloud che offrono risorse di computing su internet.
@@ -120,7 +120,7 @@
 - **Scalabilità automatica**:indica la capacità di adattare dinamicamente le risorse in risposta alla domanda, garantendo efficienza ed elasticità.
 - **Serverless Computing**: Un modello di cloud computing in cui il provider gestisce dinamicamente le risorse, addebitando solo per l'esecuzione effettiva di codice (es. "AWS Lambda").
 
-# Hardware Virtualization
+## Hardware Virtualization
 
 - **Full Virtualization**: tutto dall'Host viene "Virtualizzato", usualmente risultando in performance peggiori.
 - **Paravirtualization**: Host e Guest comunicano tra di loro attraverso APIs specifiche, risultando in performance migliori. L'host dovrà comunque offrire supporto kernel.
