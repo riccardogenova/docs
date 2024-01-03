@@ -18,6 +18,7 @@
 - **Chiamata di funzione**: Possibilità di richiamare una funzione in più parti del programma senza dover riscrivere tutto il codice
 - **Commento**: Lasciare nel codice una nota personale, una spiegazione sintetica ma esplicativa di qualche passaggio meno chiaro a colpo d'occhio.
 - **Documentazione**: Testo lasciato da noi sviluppatori durante un progetto in team, o dalla casa di rilascio per un programma/una libreria, per spiegare nel dettaglio come meglio adoperare funzioni, classi, metodi o moduli del programma/della libreria. A.K.A. salvavita dei programmatori!
+- **Shell**: Aka `CLI`, `Terminal`, `cmd` o anche `prompt dei commandi`. È la `Command Line Interface`, lo strumento più potente sotto le dita di un programmatore o di un comune smanettone. Permette di eseguire scripts o tool tramite un prompt testuale. Es.: `$ echo $PATH`
 
 # Sviluppo Web
 
