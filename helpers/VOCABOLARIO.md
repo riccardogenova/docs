@@ -38,7 +38,7 @@
 # Database
 
 - **SQL (Structured Query Language)**: Linguaggio standard per gestire i database relazionali.
-- **NoSQL**: Database non relazionali, utilizzati per la grande scalabilità e la flessibilità nell'organizzazione dei dati.
+- **NoSQL (Not Only SQL)**: Database non relazionali (o meglio, non *solo* relazionali), utilizzati per la grande scalabilità e la flessibilità nell'organizzazione dei dati.
 - **CRUD (Create, Read, Update, Delete)**: Le quattro operazioni di base dei dati.
 - **Query**: Un'istruzione o un comando utilizzato per recuperare, modificare o aggiornare i dati all'interno di un database.
 - **RDBMS (Relational Database Management System)**: Un tipo di DBMS che organizza i dati in tabelle relazionali e utilizza il linguaggio SQL per interrogare e manipolare i dati.
