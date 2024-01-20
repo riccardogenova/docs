@@ -18,6 +18,7 @@
 - **Chiamata di funzione**: Possibilità di richiamare una funzione in più parti del programma senza dover riscrivere tutto il codice
 - **Commento**: Lasciare nel codice una nota personale, una spiegazione sintetica ma esplicativa di qualche passaggio meno chiaro a colpo d'occhio.
 - **Documentazione**: Testo lasciato da noi sviluppatori durante un progetto in team, o dalla casa di rilascio per un programma/una libreria, per spiegare nel dettaglio come meglio adoperare funzioni, classi, metodi o moduli del programma/della libreria. A.K.A. salvavita dei programmatori!
+- **Package Manager**: O sistema di gestione dei pacchetti, è un tool o un insieme di strumenti software per automatizzare installazione, aggiornamento e rimozione dei pacchetti software in maniera semplice da CLI, gestendo anche le eventuali dipendenze. Es: `pip` (di Python), `npm` (di Node), `Homebrew` (open-source, su macOS), `apt`, `yarn`, `yum`, `pacman` (su varie distribuzioni Linux) o `winget` (su Windows)
 
 # Sviluppo Web
 
