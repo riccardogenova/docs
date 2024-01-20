@@ -34,6 +34,7 @@
 - **Web Browsers e Developer Tools**: Conoscenza dei principali browser web e delle relative strumenti di sviluppo per il debug e il testing.
 - **GraphQL**: Linguaggio di query per le API, offrendo una maggiore flessibilità rispetto alle richieste tradizionali basate su REST.
 - **SEO (Search Engine Optimization)**: Implementazione di strategie per migliorare la visibilità dei contenuti web sui motori di ricerca, migliorando il posizionamento organico nelle ricerche.
+- **MD (M⬇️ Markdown)**: il Markdown è un linguaggio di markup con una sintassi del testo semplice progettata in modo che possa essere convertita in HTML, usato spesso usato per formattare file README.md come questo (ma si trovano varianti simili anche su app e siti varii, come StackOverflow e Discord)
 
 # Database
 
