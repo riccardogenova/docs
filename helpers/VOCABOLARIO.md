@@ -58,6 +58,7 @@
 - **Branch**: Una linea separata di sviluppo che deriva dal ramo principale (solitamente da "master" o "main") e consente di lavorare su nuove funzionalità o correzioni di bug senza influire direttamente sul ramo principale.
 - **Clone**: Creare una copia locale di un repository remoto sul proprio sistema.
 - **Rebase**: Un'operazione di Git che modifica la sequenza di commit per migliorare la pulizia della cronologia di sviluppo.
+- **Gist**: dalla parola inglese gist (essenza, sintesi es. "I grab the gist of it" == "ne capisco i concetti") è una funzione di GitHub per condividere rapidamente codice o note (anche segrete) senza dover creare una repo, mantenendo lo storico dei commits o anche permettendo l'embed del codice.
 
 # Testing e Debugging
 
