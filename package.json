@@ -3,8 +3,6 @@
   "version": "0.0.1",
   "scripts": {
     "format": "prettier --ignore-path .gitignore \"src/**/*.+(ts|js|tsx|scss|css|jsx)\" --write",
-    "generate:release": "standard-version",
-    "postinstall": "node ./bin/postInstall"
   },
   "devDependencies": {
     "@commitlint/cli": "^18.4.3",
@@ -18,7 +16,7 @@
   },
   "lint-staged": {
     "./src/**/*.{ts,js,jsx,tsx}": [
-      "yarn format"
+      "npm run format"
     ]
   }
 }
