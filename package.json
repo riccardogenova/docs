@@ -2,7 +2,7 @@
   "name": "im-rookie-dev",
   "version": "0.0.1",
   "scripts": {
-    "format": "prettier --ignore-path .gitignore \"src/**/*.+(ts|js|tsx|scss|css|jsx)\" --write",
+    "format": "prettier --ignore-path .gitignore \"src/**/*.+(ts|js|tsx|scss|css|jsx)\" --write"
   },
   "devDependencies": {
     "@commitlint/cli": "^18.4.3",
@@ -18,5 +18,5 @@
     "./src/**/*.{ts,js,jsx,tsx}": [
       "npm run format"
     ]
-  }
-}
+  } 
+} 

@@ -8,10 +8,15 @@ I titoli in Markdown sono creati usando il simbolo `#`. Il numero di `#` usati i
 
 ```markdown
 # Titolo di livello 1
+
 ## Titolo di livello 2
+
 ### Titolo di livello 3
+
 #### Titolo di livello 4
+
 ##### Titolo di livello 5
+
 ###### Titolo di livello 6
 ```
 
@@ -20,7 +25,7 @@ I titoli in Markdown sono creati usando il simbolo `#`. Il numero di `#` usati i
 Per formattare il testo, puoi usare i seguenti marcatori:
 
 - **Grassetto**: Usa `**testo**` o `__testo__`.
-- *Corsivo*: Usa `*testo*` o `_testo_`.
+- _Corsivo_: Usa `*testo*` o `_testo_`.
 - ~~Testo barrato~~: Usa `~~testo~~`.
 
 ## Liste
@@ -48,7 +53,7 @@ Per creare un link, usa il seguente formato: `[Testo del link](URL)`. Esempio: `
 
 ## Immagini
 
-Per inserire un'immagine, usa il formato simile ai link ma precedilo con un punto esclamativo: `![Alt text](URL immagine)`. 
+Per inserire un'immagine, usa il formato simile ai link ma precedilo con un punto esclamativo: `![Alt text](URL immagine)`.
 
 ## Citazioni
 
@@ -64,10 +69,11 @@ Per il codice inline, usa i backtick: \`codice\`. Per blocchi di codice, usa tre
 
 ```markdown
 `codice inline`
+```
 
-```
 blocco di codice
-```
+
+````
 
 ## Tabelle
 
@@ -77,7 +83,7 @@ Creare tabelle usando `-` per le linee orizzontali e `|` per le colonne:
 | Intestazione 1 | Intestazione 2 |
 | -------------- | -------------- |
 | Contenuto 1    | Contenuto 2    |
-```
+````
 
 ## Separatore Orizzontale
 

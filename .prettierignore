@@ -5,7 +5,4 @@ package-lock.json
 README.md
 CODE_OF_CONDUCT
 /corsi
-/helpers
-/topics
-/@its-steve-jobs
-/@corso-code
+/docs
