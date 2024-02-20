@@ -109,4 +109,3 @@ export default CounterControls;
 
 Con questo approccio, abbiamo superato il problema del props drilling, mantenendo il nostro codice pulito, mantenibile e facile da comprendere. Il Context ci ha permesso di condividere lo stato del contatore in modo efficiente tra i componenti, senza passare manualmente le props attraverso ogni livello dell'albero dei componenti.
 
-Spero che questa lezione vi
